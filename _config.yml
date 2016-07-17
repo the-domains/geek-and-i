@@ -1,4 +1,3 @@
-layout_spectrum: 0.7145433283876628
 typography_spectrum: 0.19816489098593593
 color:
   brandStrength: 0.8525261199101806
@@ -11,6 +10,12 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-name: Geek and I
+layout_spectrum: 0.7145433283876628
 analytics:
   google: UA-20895326-1
+author:
+  name: Mike Horwath
+  email: geekandi@geeks.org
+  url: www.geekandi.com
+name: Geek and I
+title: an embellishment
