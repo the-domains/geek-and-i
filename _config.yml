@@ -1,15 +1,15 @@
-typography_spectrum: 0.754345920169726
+typography_spectrum: 0.19816489098593593
 color:
-  brandStrength: 0.6858276608400047
-  lightness: 0.5697708174120635
-  saturation: 0.018881904194131494
-  rhythmicContrast: 0.4752046875655651
+  brandStrength: 0.8525261199101806
+  lightness: 0.05868859030306339
+  saturation: 0.33055432606488466
+  rhythmicContrast: 0.8533362487796694
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 layout_spectrum: 0.7145433283876628
 analytics:
   google: UA-20895326-1
@@ -18,4 +18,4 @@ author:
   email: geekandi@geeks.org
   url: 'https://www.geekandi.com/'
 name: Geek and I
-title: an embellishment; feed
+title: feed; an embellishment
