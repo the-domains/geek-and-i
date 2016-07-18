@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 13:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 13:59:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Rockets are awesome]]></title>
+            <description><![CDATA[<article><h1>Rockets are awesome</h1><p>SpaceX's Falcon 9 rocket will launch the Dragon spacecraft to low Earth orbit to deliver critical cargo to the International Space Station (ISS) for NASA. SpaceX is targeting a July 18 (EDT) launch of its ninth Commercial Resupply Services mission (CRS-9) from Space Launch Complex 40 at Cape Canaveral Air Force Station, Fla.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d171abfd-3e1b-423b-90c9-e262e9825ac0.png"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ThIdCuSsJh8</link>
+            <guid isPermaLink="false">e6275ebf-b73f-42d5-9c19-b78691e66eea</guid>
+            <pubDate>Mon, 18 Jul 2016 13:59:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Turn on 5G, turn off old landlines: FCC plans future of phone networks]]></title>
-            <description><![CDATA[<article><h1>Turn on 5G, turn off old landlines: FCC plans future of phone networks</h1><p>Two votes taken by the Federal Communications Commission today could have big implications for the transition to faster mobile networks and the discontinuance of old landline networks. The two votes aren't directly related, but they each prepare for a future that could rely more on wireless technologies for voice and Internet service.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/07/data-transfer-640x360.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Turn on 5G, turn off old landlines: FCC plans future of phone networks</h1><p>Two votes taken by the Federal Communications Commission today could have big implications for the transition to faster mobile networks and the discontinuance of old landline networks. The two votes aren't directly related, but they each prepare for a future that could rely more on wireless technologies for voice and Internet service.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/72081cedf5f6fbcff4faa2a04539a850/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fdata-transfer-640x360.jpg"></article>]]></description>
             <link>http://arstechnica.com/information-technology/2016/07/turn-on-5g-turn-off-old-landlines-fcc-plans-future-of-phone-networks/</link>
             <guid isPermaLink="false">7695823f-d711-4d6b-8e7f-bd6b28ede167</guid>
             <pubDate>Mon, 18 Jul 2016 13:50:59 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://android.googleblog.com/2016/07/stay-connected-abroad-with-high-speed.html</link>
             <guid isPermaLink="false">e2b05e32-ccd3-43a8-a521-088db1ed7e79</guid>
             <pubDate>Mon, 18 Jul 2016 13:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Expect Mr. Robot's take on the FBI to be very real thanks to a former employee]]></title>
-            <description><![CDATA[<article><h1>Expect Mr. Robot's take on the FBI to be very real thanks to a former employee</h1><p>Warning: This piece contains minor spoilers for this week's episode of Mr. Robot (S2E1) Near the intermission of Mr. Robot's two-part season two premiere, fsociety hacker Darlene boots her desktop computer and opens up something called the " Social-Engineering Toolkit."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd57845c7476e1fca7340d85e9c1c1f5/noop.png?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2FScreen-Shot-2016-07-15-at-3.46.33-PM-640x246.png"></article>]]></description>
-            <link>http://arstechnica.com/the-multiverse/2016/07/expect-mr-robots-take-on-the-fbi-to-be-very-real-thanks-to-a-former-employee/</link>
-            <guid isPermaLink="false">7109349e-ef86-465c-8799-9831a398b41d</guid>
-            <pubDate>Mon, 18 Jul 2016 13:14:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
