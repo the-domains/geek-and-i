@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 03:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 14:45:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Army SOF to Trade in Its Androids for iPhones]]></title>
+            <description><![CDATA[<article><h1>Army SOF to Trade in Its Androids for iPhones</h1><p>U.S. Army Special Operations Command is dumping its Android tactical smartphone for an iPhone model. The iPhone 6S will become the end-user device for the iPhone Tactical Assault Kit - special-operations-forces version Army's Nett Warrior battlefield situational awareness tool, according to an Army source, who is not authorized to speak to the media.</p><img src="http://i1.wp.com/www.dodbuzz.com/wp-content/uploads/2016/07/ip6-productshot-black1_33e71468-61db-484c-93dc-64c91d81b4aa_1024x1024.jpg?resize=650%2C434"></article>]]></description>
+            <link>http://www.dodbuzz.com/2016/07/15/army-sof-to-trade-in-its-androids-for-iphones/</link>
+            <guid isPermaLink="false">07b48caf-05c8-41ba-8569-7203afa47f81</guid>
+            <pubDate>Tue, 19 Jul 2016 14:44:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ALMA captures first-ever image of a proto-star's snow-line]]></title>
             <description><![CDATA[<article><h1>ALMA captures first-ever image of a proto-star's snow-line</h1><p>A team of researchers has imaged the water snow-line in a forming exosolar system for the first time. The system in question, V883 Ori, is only about half a billion years old and is in an early stage of development, with planet formation probably not yet started.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a663088be47321e94d893fc582d99de3/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2FSnow-line-artists-conception-640x543.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/gaming/2016/07/slimmed-down-xbox-one-s-hits-stores-august-2/</link>
             <guid isPermaLink="false">44dfce0a-9586-4c5e-952b-81fb04d5c59f</guid>
             <pubDate>Mon, 18 Jul 2016 15:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comcast joins top mobile carriers in 600MHz spectrum auction]]></title>
-            <description><![CDATA[<article><h1>Comcast joins top mobile carriers in 600MHz spectrum auction</h1><p>Comcast is getting ready to bid on spectrum as it prepares a move into the mobile broadband business. Bidding under the name " CC Wireless Investment, LLC," Comcast submitted its application a few months ago and is now one of 62 qualified bidders announced by the Federal Communications Commission on Friday.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/621727f936f5e4bb18da0f7a4b29c920/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2015%2F12%2Fcomcast-logo-thumbnail-640x360.jpg"></article>]]></description>
-            <link>http://arstechnica.com/business/2016/07/comcast-joins-top-mobile-carriers-in-600mhz-spectrum-auction/</link>
-            <guid isPermaLink="false">219b1426-4484-4806-9d16-87c9fd19f220</guid>
-            <pubDate>Mon, 18 Jul 2016 15:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
