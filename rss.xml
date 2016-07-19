@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 15:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 16:30:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Amazon's counterfeit problem is getting worse and sellers are enraged]]></title>
+            <description><![CDATA[<article><h1>Amazon's counterfeit problem is getting worse and sellers are enraged</h1><p>Amazon.com is hard at work promoting next week's Prime Day and the more than 100,000 deals available to subscribers. As with all things Amazon, it's intended to be a major party for consumers. But longtime Amazon sellers like Jamie Whaley are in no mood to celebrate.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/abeca4de8853640ab4cb35cc4d9770d6/croprotate.jpg?cropheight=999&cropwidth=1910&degrees=0&input=http%3A%2F%2Ffm.cnbc.com%2Fapplications%2Fcnbc.com%2Fresources%2Fimg%2Feditorial%2F2015%2F10%2F30%2F103126098-GettyImages-94831537.1910x1000.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.cnbc.com/2016/07/08/amazons-chinese-counterfeit-problem-is-getting-worse.html</link>
+            <guid isPermaLink="false">1eebbb42-3cfc-4a6c-8ff5-cb3aa0e91d19</guid>
+            <pubDate>Mon, 18 Jul 2016 16:30:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Slimmed down Xbox One S hits stores August 2]]></title>
             <description><![CDATA[<article><h1>Slimmed down Xbox One S hits stores August 2</h1><p>It's a beautiful white box. After leaking and then confirming news of the slim, white, Xbox One redesign just over a month ago, Microsoft today announced that its Xbox One S console hardware refresh will hit retailers on August 2.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5969f76ebb90c581e8edd187d0c8484a/noop.png?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fxbox-one-s-vertical-640x400.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/tech-policy/2016/07/sorry-theres-no-more-porn-with-your-starbucks-latte/</link>
             <guid isPermaLink="false">b1a1a862-3c08-4baa-9aa1-c09cbeddb79e</guid>
             <pubDate>Mon, 18 Jul 2016 13:16:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Rho Agenda (3 Book Series)]]></title>
-            <description><![CDATA[<article><h1>The Rho Agenda (3 Book Series)</h1><p>Starts off as young adult but moved on quick to something deeper.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a3afcbb-02ff-4487-b28e-814a1ddfffcc.png"></article>]]></description>
-            <link>https://www.amazon.com/dp/B00TP1WI14/?tag=mikehorwath-20</link>
-            <guid isPermaLink="false">b9b18661-e379-4782-842b-308cdfb428ff</guid>
-            <pubDate>Mon, 18 Jul 2016 13:16:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
