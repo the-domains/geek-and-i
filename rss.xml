@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 19:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 19:13:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AT&T: We wanna be a drone company, not just a phone company]]></title>
+            <description><![CDATA[<article><h1>AT&T: We wanna be a drone company, not just a phone company</h1><p>Vid AT&T is planning to rapidly expand its use of drones - it can already put one of the gizmos in the air virtually anywhere over continental United States.</p><img src="https://regmedia.co.uk/2016/07/15/drone.jpg?x=1200&y=794"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/07/16/att_planning_drones_not_just_phones/</link>
+            <guid isPermaLink="false">6549f500-bdf2-4914-bb9d-e110ea040524</guid>
+            <pubDate>Mon, 18 Jul 2016 19:12:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[OS X 10.11.6 and iOS 9.3.3 released as Apple's current OSes wind down]]></title>
-            <description><![CDATA[<article><h1>OS X 10.11.6 and iOS 9.3.3 released as Apple's current OSes wind down</h1><p>iOS 10 gives developers plenty to do and lets its users have a little fun, too. Apple has just released a new round of updates for all of its platforms, including OS X 10.11.6 and iOS 9.3.3.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/07/DSC01437-980x551-640x360.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>OS X 10.11.6 and iOS 9.3.3 released as Apple's current OSes wind down</h1><p>iOS 10 gives developers plenty to do and lets its users have a little fun, too. Apple has just released a new round of updates for all of its platforms, including OS X 10.11.6 and iOS 9.3.3.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/56007ad81a1c8c4b750b6020533320a4/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2FDSC01437-980x551-640x360.jpg"></article>]]></description>
             <link>http://arstechnica.com/apple/2016/07/os-x-10-11-6-and-ios-9-3-3-released-as-apples-current-oses-wind-down/</link>
             <guid isPermaLink="false">456ae6ef-00cb-45b7-9402-54c1fc31c65a</guid>
             <pubDate>Mon, 18 Jul 2016 19:09:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.wired.com/2016/07/feds-just-put-us-back-global-drone-race/</link>
             <guid isPermaLink="false">1f440a0d-7810-460a-9667-b091c7980502</guid>
             <pubDate>Mon, 18 Jul 2016 13:39:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Frontiers Saga]]></title>
-            <description><![CDATA[<article><h1>The Frontiers Saga</h1><p>A world recovering from a devastating plague…A brutal enemy threatening invasion…A young man seeking to escape the shadow of his father…A ship manned by a crew of fresh academy graduates…A top-secret experimental propulsion system…</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1aa82f3724a9f670dc48096b3df9e497/croprotate.png?cropheight=2099&cropwidth=2584&degrees=0&input=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2FC1Uc4oyZCnS.png&x=0&y=0"></article>]]></description>
-            <link>https://www.amazon.com/dp/B019OS6YIA/?tag=mikehorwath-20</link>
-            <guid isPermaLink="false">46d64b30-472a-4868-b26d-b9b241ec3510</guid>
-            <pubDate>Mon, 18 Jul 2016 13:29:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
