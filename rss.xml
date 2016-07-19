@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 16:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 19:00:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Donald Trump's Ghostwriter Tells All]]></title>
+            <description><![CDATA[<article><h1>Donald Trump's Ghostwriter Tells All</h1><p>Last June, as dusk fell outside Tony Schwartz's sprawling house, on a leafy back road in Riverdale, New York, he pulled out his laptop and caught up with the day's big news: Donald J. Trump had declared his candidacy for President. As Schwartz watched a video of the speech, he began to feel personally implicated.</p><img src="http://www.newyorker.com/wp-content/uploads/2016/07/160725_r28431-1200x630-1468523183.jpg"></article>]]></description>
+            <link>http://www.newyorker.com/magazine/2016/07/25/donald-trumps-ghostwriter-tells-all</link>
+            <guid isPermaLink="false">ec1de1e9-1d46-4e08-bed2-991bbe19862f</guid>
+            <pubDate>Mon, 18 Jul 2016 18:59:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Amazon's counterfeit problem is getting worse and sellers are enraged]]></title>
-            <description><![CDATA[<article><h1>Amazon's counterfeit problem is getting worse and sellers are enraged</h1><p>Amazon.com is hard at work promoting next week's Prime Day and the more than 100,000 deals available to subscribers. As with all things Amazon, it's intended to be a major party for consumers. But longtime Amazon sellers like Jamie Whaley are in no mood to celebrate.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/abeca4de8853640ab4cb35cc4d9770d6/croprotate.jpg?cropheight=999&cropwidth=1910&degrees=0&input=http%3A%2F%2Ffm.cnbc.com%2Fapplications%2Fcnbc.com%2Fresources%2Fimg%2Feditorial%2F2015%2F10%2F30%2F103126098-GettyImages-94831537.1910x1000.jpg&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<article><h1>Amazon's counterfeit problem is getting worse and sellers are enraged</h1><p>Amazon.com is hard at work promoting next week's Prime Day and the more than 100,000 deals available to subscribers. As with all things Amazon, it's intended to be a major party for consumers. But longtime Amazon sellers like Jamie Whaley are in no mood to celebrate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3548e094bf3ae80b56d3b9ae0cbd3a1d392a8e06.jpg"></article>]]></description>
             <link>http://www.cnbc.com/2016/07/08/amazons-chinese-counterfeit-problem-is-getting-worse.html</link>
             <guid isPermaLink="false">1eebbb42-3cfc-4a6c-8ff5-cb3aa0e91d19</guid>
             <pubDate>Mon, 18 Jul 2016 16:30:29 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/business/2016/07/mobile-carriers-arent-doing-enough-to-fight-robocalls-senators-say/</link>
             <guid isPermaLink="false">22fe8368-9427-41d5-a0cf-209522fc9fd7</guid>
             <pubDate>Mon, 18 Jul 2016 13:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sorry, there's no more porn with your Starbucks latte]]></title>
-            <description><![CDATA[<article><h1>Sorry, there's no more porn with your Starbucks latte</h1><p>Starbucks said Friday it would soon add porn-blocking filters to its public, in-store Wi-Fi. The move follows McDonald's, which disclosed this week that it had blocked the hamburger-eating public from accessing Wi-Fi-enabled porn at its restaurants.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38cad99c7eca2b0725c678d18c4f4724/croprotate.jpg?cropheight=409&cropwidth=608&degrees=0&input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2F190184209_96ec97e8f0_o-640x438.jpg&x=16&y=15"></article>]]></description>
-            <link>http://arstechnica.com/tech-policy/2016/07/sorry-theres-no-more-porn-with-your-starbucks-latte/</link>
-            <guid isPermaLink="false">b1a1a862-3c08-4baa-9aa1-c09cbeddb79e</guid>
-            <pubDate>Mon, 18 Jul 2016 13:16:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
