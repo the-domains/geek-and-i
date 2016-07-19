@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 14:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 14:50:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Apple begins rolling out iTunes Match with audio fingerprint to Apple Music subscribers]]></title>
+            <description><![CDATA[<article><h1>Apple begins rolling out iTunes Match with audio fingerprint to Apple Music subscribers</h1><p>One of the biggest complaints about Apple Music over the past year was that it wouldn't properly match songs subscribers had in their existing iTunes libraries. That problem is being fixed by Apple. Apple has been quietly rolling out iTunes Match audio fingerprint to all Apple Music subscribers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2f80835296ad0697b7a912de7bcad444/noop.png?input=http%3A%2F%2Fwww.loopinsight.com%2Fimages%2Flogo.png"></article>]]></description>
+            <link>http://www.loopinsight.com/2016/07/18/apple-begins-rolling-out-itunes-match-with-audio-fingerprint-to-apple-music-subscribers/</link>
+            <guid isPermaLink="false">40ae4def-f9e5-410a-b2a9-a02a2b71596c</guid>
+            <pubDate>Tue, 19 Jul 2016 14:50:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Army SOF to Trade in Its Androids for iPhones]]></title>
-            <description><![CDATA[<article><h1>Army SOF to Trade in Its Androids for iPhones</h1><p>U.S. Army Special Operations Command is dumping its Android tactical smartphone for an iPhone model. The iPhone 6S will become the end-user device for the iPhone Tactical Assault Kit - special-operations-forces version Army's Nett Warrior battlefield situational awareness tool, according to an Army source, who is not authorized to speak to the media.</p><img src="http://i1.wp.com/www.dodbuzz.com/wp-content/uploads/2016/07/ip6-productshot-black1_33e71468-61db-484c-93dc-64c91d81b4aa_1024x1024.jpg?resize=650%2C434"></article>]]></description>
+            <description><![CDATA[<article><h1>Army SOF to Trade in Its Androids for iPhones</h1><p>U.S. Army Special Operations Command is dumping its Android tactical smartphone for an iPhone model. The iPhone 6S will become the end-user device for the iPhone Tactical Assault Kit - special-operations-forces version Army's Nett Warrior battlefield situational awareness tool, according to an Army source, who is not authorized to speak to the media.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c318cca912b565ddbb515824df99d727/noop.jpg?input=http%3A%2F%2Fi1.wp.com%2Fwww.dodbuzz.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fip6-productshot-black1_33e71468-61db-484c-93dc-64c91d81b4aa_1024x1024.jpg%3Fresize%3D650%252C434"></article>]]></description>
             <link>http://www.dodbuzz.com/2016/07/15/army-sof-to-trade-in-its-androids-for-iphones/</link>
             <guid isPermaLink="false">07b48caf-05c8-41ba-8569-7203afa47f81</guid>
             <pubDate>Tue, 19 Jul 2016 14:44:53 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.cnbc.com/2016/07/08/amazons-chinese-counterfeit-problem-is-getting-worse.html</link>
             <guid isPermaLink="false">1eebbb42-3cfc-4a6c-8ff5-cb3aa0e91d19</guid>
             <pubDate>Mon, 18 Jul 2016 16:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slimmed down Xbox One S hits stores August 2]]></title>
-            <description><![CDATA[<article><h1>Slimmed down Xbox One S hits stores August 2</h1><p>It's a beautiful white box. After leaking and then confirming news of the slim, white, Xbox One redesign just over a month ago, Microsoft today announced that its Xbox One S console hardware refresh will hit retailers on August 2.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5969f76ebb90c581e8edd187d0c8484a/noop.png?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fxbox-one-s-vertical-640x400.png"></article>]]></description>
-            <link>http://arstechnica.com/gaming/2016/07/slimmed-down-xbox-one-s-hits-stores-august-2/</link>
-            <guid isPermaLink="false">44dfce0a-9586-4c5e-952b-81fb04d5c59f</guid>
-            <pubDate>Mon, 18 Jul 2016 15:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
