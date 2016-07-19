@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 19:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 19:09:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[OS X 10.11.6 and iOS 9.3.3 released as Apple's current OSes wind down]]></title>
+            <description><![CDATA[<article><h1>OS X 10.11.6 and iOS 9.3.3 released as Apple's current OSes wind down</h1><p>iOS 10 gives developers plenty to do and lets its users have a little fun, too. Apple has just released a new round of updates for all of its platforms, including OS X 10.11.6 and iOS 9.3.3.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/07/DSC01437-980x551-640x360.jpg"></article>]]></description>
+            <link>http://arstechnica.com/apple/2016/07/os-x-10-11-6-and-ios-9-3-3-released-as-apples-current-oses-wind-down/</link>
+            <guid isPermaLink="false">456ae6ef-00cb-45b7-9402-54c1fc31c65a</guid>
+            <pubDate>Mon, 18 Jul 2016 19:09:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Donald Trump's Ghostwriter Tells All]]></title>
-            <description><![CDATA[<article><h1>Donald Trump's Ghostwriter Tells All</h1><p>Last June, as dusk fell outside Tony Schwartz's sprawling house, on a leafy back road in Riverdale, New York, he pulled out his laptop and caught up with the day's big news: Donald J. Trump had declared his candidacy for President. As Schwartz watched a video of the speech, he began to feel personally implicated.</p><img src="http://www.newyorker.com/wp-content/uploads/2016/07/160725_r28431-1200x630-1468523183.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Donald Trump's Ghostwriter Tells All</h1><p>Last June, as dusk fell outside Tony Schwartz's sprawling house, on a leafy back road in Riverdale, New York, he pulled out his laptop and caught up with the day's big news: Donald J. Trump had declared his candidacy for President. As Schwartz watched a video of the speech, he began to feel personally implicated.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/29acd6357989dda06fc414e0fa97d75a/noop.jpg?input=http%3A%2F%2Fwww.newyorker.com%2Fwp-content%2Fuploads%2F2016%2F07%2F160725_r28431-1200x630-1468523183.jpg"></article>]]></description>
             <link>http://www.newyorker.com/magazine/2016/07/25/donald-trumps-ghostwriter-tells-all</link>
             <guid isPermaLink="false">ec1de1e9-1d46-4e08-bed2-991bbe19862f</guid>
             <pubDate>Mon, 18 Jul 2016 18:59:32 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.amazon.com/dp/B019OS6YIA/?tag=mikehorwath-20</link>
             <guid isPermaLink="false">46d64b30-472a-4868-b26d-b9b241ec3510</guid>
             <pubDate>Mon, 18 Jul 2016 13:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mobile carriers aren't doing enough to fight robocalls, senators say]]></title>
-            <description><![CDATA[<article><h1>Mobile carriers aren't doing enough to fight robocalls, senators say</h1><p>Two US senators are urging the mobile phone industry to fight robocalls and texts by creating a database of phone numbers that have been reassigned from one customer to another. Reassigned numbers are one of the major contributors to unwanted calls and texts, and carriers haven't done enough to fight the problem, said US Senators John Thune (R-S.D.)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4c749bb810ce52e32c4a1aa6909effea/noop.png?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2014%2F11%2Frobocall.1.png"></article>]]></description>
-            <link>http://arstechnica.com/business/2016/07/mobile-carriers-arent-doing-enough-to-fight-robocalls-senators-say/</link>
-            <guid isPermaLink="false">22fe8368-9427-41d5-a0cf-209522fc9fd7</guid>
-            <pubDate>Mon, 18 Jul 2016 13:16:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
