@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 14:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 15:53:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Comcast joins top mobile carriers in 600MHz spectrum auction]]></title>
+            <description><![CDATA[<article><h1>Comcast joins top mobile carriers in 600MHz spectrum auction</h1><p>Comcast is getting ready to bid on spectrum as it prepares a move into the mobile broadband business. Bidding under the name " CC Wireless Investment, LLC," Comcast submitted its application a few months ago and is now one of 62 qualified bidders announced by the Federal Communications Commission on Friday.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2015/12/comcast-logo-thumbnail-640x360.jpg"></article>]]></description>
+            <link>http://arstechnica.com/business/2016/07/comcast-joins-top-mobile-carriers-in-600mhz-spectrum-auction/</link>
+            <guid isPermaLink="false">219b1426-4484-4806-9d16-87c9fd19f220</guid>
+            <pubDate>Mon, 18 Jul 2016 15:53:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CRS-9 Hosted Webcast]]></title>
             <description><![CDATA[<article><h1>CRS-9 Hosted Webcast</h1><p>SpaceX's Falcon 9 rocket will launch the Dragon spacecraft to low Earth orbit to deliver critical cargo to the International Space Station (ISS) for NASA. SpaceX is targeting a July 18 (EDT) launch of its ninth Commercial Resupply Services mission (CRS-9) from Space Launch Complex 40 at Cape Canaveral Air Force Station, Fla.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e47899c68ccf468f280672a4e86e7bd6/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FThIdCuSsJh8%2Fmaxresdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.anandtech.com/show/10491/zalman-zmk650wp-because-you-need-a-sodaproof-chipproof-30-membrane-keyboard</link>
             <guid isPermaLink="false">433e4ffe-6bfc-4bff-a6ce-a44aca10c91c</guid>
             <pubDate>Mon, 18 Jul 2016 13:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stay connected abroad with high speed data from Project Fi]]></title>
-            <description><![CDATA[<article><h1>Stay connected abroad with high speed data from Project Fi</h1><p>When you're traveling abroad, your phone is an essential tool - for finding a great restaurant, posting pics of your trip online, or translating a sign. But the data we have access to when traveling abroad often isn't fast or affordable enough to let us do the tasks that matter most.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/622600774f36f491e65b618e06bd45fa/noop.png?input=http%3A%2F%2F1.bp.blogspot.com%2F-qkFF0CoT9_Q%2FVt-ny0dIGqI%2FAAAAAAAAIaM%2Fs4FwhmcOCpg%2Fs1600-r%2Fandroid-logo.png"></article>]]></description>
-            <link>https://android.googleblog.com/2016/07/stay-connected-abroad-with-high-speed.html</link>
-            <guid isPermaLink="false">e2b05e32-ccd3-43a8-a521-088db1ed7e79</guid>
-            <pubDate>Mon, 18 Jul 2016 13:15:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
