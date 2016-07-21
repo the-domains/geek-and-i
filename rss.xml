@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 14:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 15:43:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Human Chronicles Saga]]></title>
+            <description><![CDATA[<article><h1>The Human Chronicles Saga</h1><p>Adam Cain is an Alien with an Attitude! After all, what would you do if you were abducted by aliens and dropped into a strange, new universe away from your home, your family -- everything familiar to you? Would it make you happy? Not likely!<p />Now imagine you're stronger, faster and more coordinated than every alien species you encounter. Would you start kicking some butt? Of course you would!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/acdf32780a8accd938c408cf98f905cf/croprotate.png?cropheight=2559&cropwidth=3650&degrees=0&input=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2FD1XKuHqO1eS.png&x=0&y=0"></article>]]></description>
+            <link>https://www.amazon.com/dp/B01FXT8WMU/?tag=mikehorwath-20</link>
+            <guid isPermaLink="false">e57a4672-ece2-45e5-8160-fa252b8ce664</guid>
+            <pubDate>Thu, 21 Jul 2016 15:43:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apple begins rolling out iTunes Match with audio fingerprint to Apple Music subscribers]]></title>
             <description><![CDATA[<article><h1>Apple begins rolling out iTunes Match with audio fingerprint to Apple Music subscribers</h1><p>One of the biggest complaints about Apple Music over the past year was that it wouldn't properly match songs subscribers had in their existing iTunes libraries. That problem is being fixed by Apple. Apple has been quietly rolling out iTunes Match audio fingerprint to all Apple Music subscribers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2f80835296ad0697b7a912de7bcad444/noop.png?input=http%3A%2F%2Fwww.loopinsight.com%2Fimages%2Flogo.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newyorker.com/magazine/2016/07/25/donald-trumps-ghostwriter-tells-all</link>
             <guid isPermaLink="false">ec1de1e9-1d46-4e08-bed2-991bbe19862f</guid>
             <pubDate>Mon, 18 Jul 2016 18:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon's counterfeit problem is getting worse and sellers are enraged]]></title>
-            <description><![CDATA[<article><h1>Amazon's counterfeit problem is getting worse and sellers are enraged</h1><p>Amazon.com is hard at work promoting next week's Prime Day and the more than 100,000 deals available to subscribers. As with all things Amazon, it's intended to be a major party for consumers. But longtime Amazon sellers like Jamie Whaley are in no mood to celebrate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3548e094bf3ae80b56d3b9ae0cbd3a1d392a8e06.jpg"></article>]]></description>
-            <link>http://www.cnbc.com/2016/07/08/amazons-chinese-counterfeit-problem-is-getting-worse.html</link>
-            <guid isPermaLink="false">1eebbb42-3cfc-4a6c-8ff5-cb3aa0e91d19</guid>
-            <pubDate>Mon, 18 Jul 2016 16:30:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
