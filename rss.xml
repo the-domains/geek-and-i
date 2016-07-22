@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 15:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 12:49:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AMERICA ONE]]></title>
+            <description><![CDATA[<article><h1>AMERICA ONE</h1><p>Ryan Richmond was as ordinary as any child growing up in America in the late sixties. His dreams, however, were far from average and could be described as nothing less than “out of this world.” From an early age, Ryan was fascinated by the solar system and its still undiscovered secrets.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ec0f0ec04dd71281fe4f0cb68fe46a2c/croprotate.png?cropheight=2561&cropwidth=3149&degrees=0&input=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2FC1iU2edUroS.png&x=0&y=0"></article>]]></description>
+            <link>https://www.amazon.com/dp/B01BOWI2J8/?tag=mikehorwath-20</link>
+            <guid isPermaLink="false">36a9bfcb-aa27-49de-ab87-4ac26185e62a</guid>
+            <pubDate>Fri, 22 Jul 2016 12:49:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[xkcd: Free Speech]]></title>
             <description><![CDATA[<article><h1>xkcd: Free Speech</h1><p>BTC 1FhCLQK2ZXtCUQDtG98p6fVH7S6mxAsEey We did not invent the algorithm. The algorithm consistently finds Jesus. The algorithm killed Jeeves. The algorithm is banned in China. The algorithm is from Jersey. The algorithm constantly finds Jesus. This is not the algorithm. This is close.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b37ac84c002ac83695cb8822b3de8367/noop.png?input=https%3A%2F%2Fimgs.xkcd.com%2Fcomics%2Ffree_speech.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theregister.co.uk/2016/07/16/att_planning_drones_not_just_phones/</link>
             <guid isPermaLink="false">6549f500-bdf2-4914-bb9d-e110ea040524</guid>
             <pubDate>Mon, 18 Jul 2016 19:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OS X 10.11.6 and iOS 9.3.3 released as Apple's current OSes wind down]]></title>
-            <description><![CDATA[<article><h1>OS X 10.11.6 and iOS 9.3.3 released as Apple's current OSes wind down</h1><p>iOS 10 gives developers plenty to do and lets its users have a little fun, too. Apple has just released a new round of updates for all of its platforms, including OS X 10.11.6 and iOS 9.3.3.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/56007ad81a1c8c4b750b6020533320a4/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2FDSC01437-980x551-640x360.jpg"></article>]]></description>
-            <link>http://arstechnica.com/apple/2016/07/os-x-10-11-6-and-ios-9-3-3-released-as-apples-current-oses-wind-down/</link>
-            <guid isPermaLink="false">456ae6ef-00cb-45b7-9402-54c1fc31c65a</guid>
-            <pubDate>Mon, 18 Jul 2016 19:09:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
