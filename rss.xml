@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 12:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 12:52:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Single-atom-thick sheets efficiently extract electricity from salt water]]></title>
+            <description><![CDATA[<article><h1>Single-atom-thick sheets efficiently extract electricity from salt water</h1><p>It's possible to generate energy using nothing but the difference between fresh and salt water. When fresh and salt water are separated by a membrane that blocks the passage of certain ions, there is a force that drives the freshwater into the salt water to even out the salt concentration.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/07/77994-640x427.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/07/single-atom-thick-sheets-efficiently-extract-electricity-from-salt-water/</link>
+            <guid isPermaLink="false">9822bedd-a20c-4879-aaf4-67909d66d223</guid>
+            <pubDate>Fri, 22 Jul 2016 12:52:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AMERICA ONE]]></title>
             <description><![CDATA[<article><h1>AMERICA ONE</h1><p>Ryan Richmond was as ordinary as any child growing up in America in the late sixties. His dreams, however, were far from average and could be described as nothing less than “out of this world.” From an early age, Ryan was fascinated by the solar system and its still undiscovered secrets.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ec0f0ec04dd71281fe4f0cb68fe46a2c/croprotate.png?cropheight=2561&cropwidth=3149&degrees=0&input=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2FC1iU2edUroS.png&x=0&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/7/18/12213340/mr-robot-digital-aftershow-hosted-by-the-verge-starts-this-week</link>
             <guid isPermaLink="false">7621532f-fe72-4f03-8e83-04da0a884d00</guid>
             <pubDate>Mon, 18 Jul 2016 19:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AT&T: We wanna be a drone company, not just a phone company]]></title>
-            <description><![CDATA[<article><h1>AT&T: We wanna be a drone company, not just a phone company</h1><p>Vid AT&T is planning to rapidly expand its use of drones - it can already put one of the gizmos in the air virtually anywhere over continental United States.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f416ba2fbb3cca26a209a9df184ad561/noop.jpg?input=https%3A%2F%2Fregmedia.co.uk%2F2016%2F07%2F15%2Fdrone.jpg%3Fx%3D1200%26y%3D794"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/07/16/att_planning_drones_not_just_phones/</link>
-            <guid isPermaLink="false">6549f500-bdf2-4914-bb9d-e110ea040524</guid>
-            <pubDate>Mon, 18 Jul 2016 19:12:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
