@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 22:51:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tesla quietly upgraded its Superchargers for faster charging, now capable of 145 kW]]></title>
+            <description><![CDATA[<article><h1>Tesla quietly upgraded its Superchargers for faster charging, now capable of 145 kW</h1><p>Tesla has long claimed that its Supercharger is 'The World's Fastest Charging Station', but the claim was recently challenged in front of the UK's Advertising Standards Authority (ASA) after a long legal battle between the automaker and Ecotricity, a British energy provider.</p><img src="https://electrek.files.wordpress.com/2016/05/supercharger-drummondville.jpg?quality=82&strip=all&strip=all&w=1600&h=1000"></article>]]></description>
+            <link>http://electrek.co/2016/07/20/tesla-supercharger-capacity-increase-145-kw/</link>
+            <guid isPermaLink="false">004305d4-2552-42a1-a555-df8303187a1e</guid>
+            <pubDate>Fri, 22 Jul 2016 22:51:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Verizon to disconnect unlimited data customers who use over 100GB/month]]></title>
             <description><![CDATA[<article><h1>Verizon to disconnect unlimited data customers who use over 100GB/month</h1><p>Verizon Wireless customers who have held on to unlimited data plans and use significantly more than 100GB a month will be disconnected from the network on August 31 unless they agree to move to limited data packages that require payment of overage fees.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15b30424f4a4be2e3442e8ee1efec47b/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2015%2F01%2Fverizon-wireless-640x258.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/business/2016/07/hbo-reports-record-viewership-netflix-subscriber-additions-are-down/</link>
             <guid isPermaLink="false">52cff0f2-5094-4d50-9ca5-2568748bbd62</guid>
             <pubDate>Tue, 19 Jul 2016 03:21:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Verizon apes T-Mobile again with unlimited but throttled prepaid data]]></title>
-            <description><![CDATA[<article><h1>Verizon apes T-Mobile again with unlimited but throttled prepaid data</h1><p>Verizon Wireless recently unveiled some new postpaid data plans with features popularized by T-Mobile USA, including rollover data and unlimited data that lets customers stay connected at slower speeds after using up their high-speed allotments. Verizon today announced similar changes to its prepaid offerings with "Always-On Data" that throttles speeds to 128kbps after customers have used up all their high-speed data.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9b80d48f68c50397f9ed7c9b0e919700/noop.png?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fverizon-prepaid-plans-640x509.png"></article>]]></description>
-            <link>http://arstechnica.com/business/2016/07/verizon-apes-t-mobile-again-with-unlimited-but-throttled-prepaid-data/</link>
-            <guid isPermaLink="false">696d232f-0781-40c2-8513-0ba5b3e6fb56</guid>
-            <pubDate>Mon, 18 Jul 2016 19:55:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
