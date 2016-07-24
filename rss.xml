@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 22:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:02:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[American Gods' first teaser is here]]></title>
+            <description><![CDATA[<article><h1>American Gods' first teaser is here</h1><p>American Gods, the TV adaption of Neil Gaiman's acclaimed novel, is actually happening. Like for real, really actually happening, after years of being kicked back and forth. And now Starz has put out a first preview of the show.</p><img src="https://cdn3.vox-cdn.com/thumbor/bFLR5Y5rlfh1MuVPXLG28dVKWGQ=/69x0:1394x745/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/50183765/Screen_Shot_2016-07-22_at_4.52.54_PM.0.0.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/7/22/12258320/american-gods-teaser-san-diego-comic-con-2016</link>
+            <guid isPermaLink="false">36c20cb1-908e-458d-a7f2-ddf481bb35f6</guid>
+            <pubDate>Sun, 24 Jul 2016 04:01:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tesla quietly upgraded its Superchargers for faster charging, now capable of 145 kW]]></title>
-            <description><![CDATA[<article><h1>Tesla quietly upgraded its Superchargers for faster charging, now capable of 145 kW</h1><p>Tesla has long claimed that its Supercharger is 'The World's Fastest Charging Station', but the claim was recently challenged in front of the UK's Advertising Standards Authority (ASA) after a long legal battle between the automaker and Ecotricity, a British energy provider.</p><img src="https://electrek.files.wordpress.com/2016/05/supercharger-drummondville.jpg?quality=82&strip=all&strip=all&w=1600&h=1000"></article>]]></description>
+            <description><![CDATA[<article><h1>Tesla quietly upgraded its Superchargers for faster charging, now capable of 145 kW</h1><p>Tesla has long claimed that its Supercharger is 'The World's Fastest Charging Station', but the claim was recently challenged in front of the UK's Advertising Standards Authority (ASA) after a long legal battle between the automaker and Ecotricity, a British energy provider.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7edd5e5ee52197e16530a8e94311ef9e/noop.jpg?input=https%3A%2F%2Felectrek.files.wordpress.com%2F2016%2F05%2Fsupercharger-drummondville.jpg%3Fquality%3D82%26strip%3Dall%26strip%3Dall%26w%3D1600%26h%3D1000"></article>]]></description>
             <link>http://electrek.co/2016/07/20/tesla-supercharger-capacity-increase-145-kw/</link>
             <guid isPermaLink="false">004305d4-2552-42a1-a555-df8303187a1e</guid>
             <pubDate>Fri, 22 Jul 2016 22:51:04 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/science/2016/07/alma-captures-first-ever-image-of-a-proto-stars-snow-line/</link>
             <guid isPermaLink="false">fd956ef3-0e5f-4368-b02a-02b379e631fb</guid>
             <pubDate>Tue, 19 Jul 2016 03:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBO reports "record viewership," Netflix subscriber additions are down]]></title>
-            <description><![CDATA[<article><h1>HBO reports "record viewership," Netflix subscriber additions are down</h1><p>It's been a little over a year since HBO launched its streaming-only online platform HBO Now, and the network is declaring that investment, along with HBO Go and HBO On Demand, a success. On Monday, HBO sent around a press release saying that the digital platforms had been drivers of "record viewership," especially with season six of Game of Thrones.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b5cb0481a4b3b3164139204b2276210/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F02%2Fnetflix-cloud-composite-640x360.jpg"></article>]]></description>
-            <link>http://arstechnica.com/business/2016/07/hbo-reports-record-viewership-netflix-subscriber-additions-are-down/</link>
-            <guid isPermaLink="false">52cff0f2-5094-4d50-9ca5-2568748bbd62</guid>
-            <pubDate>Tue, 19 Jul 2016 03:21:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
