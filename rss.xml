@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 04:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:02:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Musk: Tesla to become a sustainable energy company]]></title>
+            <description><![CDATA[<article><h1>Musk: Tesla to become a sustainable energy company</h1><p>On Wednesday evening, Tesla CEO and founder Elon Musk released his " Master Plan 2," detailing the ways in which he hopes to have Tesla contribute to making the energy economy sustainable. The plan would see consumers handle their own energy via a solar/battery combination and provide electric vehicles for every market segment.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2015/06/tesla-model-3-concept-art-640x480.jpg"></article>]]></description>
+            <link>http://arstechnica.com/cars/2016/07/musk-tesla-to-become-a-sustainable-energy-company/</link>
+            <guid isPermaLink="false">55d67139-93a7-4199-acb2-53db775a9e29</guid>
+            <pubDate>Sun, 24 Jul 2016 04:01:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[American Gods' first teaser is here]]></title>
-            <description><![CDATA[<article><h1>American Gods' first teaser is here</h1><p>American Gods, the TV adaption of Neil Gaiman's acclaimed novel, is actually happening. Like for real, really actually happening, after years of being kicked back and forth. And now Starz has put out a first preview of the show.</p><img src="https://cdn3.vox-cdn.com/thumbor/bFLR5Y5rlfh1MuVPXLG28dVKWGQ=/69x0:1394x745/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/50183765/Screen_Shot_2016-07-22_at_4.52.54_PM.0.0.png"></article>]]></description>
+            <description><![CDATA[<article><h1>American Gods' first teaser is here</h1><p>American Gods, the TV adaption of Neil Gaiman's acclaimed novel, is actually happening. Like for real, really actually happening, after years of being kicked back and forth. And now Starz has put out a first preview of the show.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/85d6494569cf48b9ce993d431fd5713a/noop.png?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2FbFLR5Y5rlfh1MuVPXLG28dVKWGQ%3D%2F69x0%3A1394x745%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50183765%2FScreen_Shot_2016-07-22_at_4.52.54_PM.0.0.png"></article>]]></description>
             <link>http://www.theverge.com/2016/7/22/12258320/american-gods-teaser-san-diego-comic-con-2016</link>
             <guid isPermaLink="false">36c20cb1-908e-458d-a7f2-ddf481bb35f6</guid>
             <pubDate>Sun, 24 Jul 2016 04:01:44 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.dodbuzz.com/2016/07/15/army-sof-to-trade-in-its-androids-for-iphones/</link>
             <guid isPermaLink="false">07b48caf-05c8-41ba-8569-7203afa47f81</guid>
             <pubDate>Tue, 19 Jul 2016 14:44:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ALMA captures first-ever image of a proto-star's snow-line]]></title>
-            <description><![CDATA[<article><h1>ALMA captures first-ever image of a proto-star's snow-line</h1><p>A team of researchers has imaged the water snow-line in a forming exosolar system for the first time. The system in question, V883 Ori, is only about half a billion years old and is in an early stage of development, with planet formation probably not yet started.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a663088be47321e94d893fc582d99de3/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2FSnow-line-artists-conception-640x543.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/07/alma-captures-first-ever-image-of-a-proto-stars-snow-line/</link>
-            <guid isPermaLink="false">fd956ef3-0e5f-4368-b02a-02b379e631fb</guid>
-            <pubDate>Tue, 19 Jul 2016 03:25:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
