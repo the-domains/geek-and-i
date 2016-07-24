@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 12:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 16:48:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chuck Wendig's final Aftermath novel will help set up The Force Awakens]]></title>
+            <description><![CDATA[<article><h1>Chuck Wendig's final Aftermath novel will help set up The Force Awakens</h1><p>Since the release of Star Wars: The Force Awakens, Chuck Wendig has been working to explore the post- Return of the Jedi era with his Aftermath trilogy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8995da0dc34eddb4522bb35557c7645b/noop.png?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2FZUCNem2aAIjgl9Mvy-RttTUzR0w%3D%2F0x0%3A931x524%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50186051%2FEmpires_End_cover.0.0.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/7/23/12262564/chuck-wendig-aftermath-empires-end-novel-force-awakens</link>
+            <guid isPermaLink="false">0aed9dd1-947c-4aa5-a251-bf844f37530c</guid>
+            <pubDate>Sun, 24 Jul 2016 16:48:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch the first trailer for Wonder Woman]]></title>
             <description><![CDATA[<article><h1>Watch the first trailer for Wonder Woman</h1><p>Warner's Bros. debuted the first trailer for next year's Wonder Woman movie during it's massive Hall H panel here at San Diego Comic-Con. Director Patty Jenkins took the stage to talk about the film, and how important Wonder Woman is as a character and as a superhero.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f47fdb6d0d2f483bc25e51a98a7812c6/noop.png?input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2FrHYZSE4E4LBIn-2s5GY4atcaYUk%3D%2F112x0%3A733x349%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50186305%2FScreenshot_2016-07-23_12.08.23.0.0.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.amazon.com/dp/B01FXT8WMU/?tag=mikehorwath-20</link>
             <guid isPermaLink="false">e57a4672-ece2-45e5-8160-fa252b8ce664</guid>
             <pubDate>Thu, 21 Jul 2016 15:43:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple begins rolling out iTunes Match with audio fingerprint to Apple Music subscribers]]></title>
-            <description><![CDATA[<article><h1>Apple begins rolling out iTunes Match with audio fingerprint to Apple Music subscribers</h1><p>One of the biggest complaints about Apple Music over the past year was that it wouldn't properly match songs subscribers had in their existing iTunes libraries. That problem is being fixed by Apple. Apple has been quietly rolling out iTunes Match audio fingerprint to all Apple Music subscribers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2f80835296ad0697b7a912de7bcad444/noop.png?input=http%3A%2F%2Fwww.loopinsight.com%2Fimages%2Flogo.png"></article>]]></description>
-            <link>http://www.loopinsight.com/2016/07/18/apple-begins-rolling-out-itunes-match-with-audio-fingerprint-to-apple-music-subscribers/</link>
-            <guid isPermaLink="false">40ae4def-f9e5-410a-b2a9-a02a2b71596c</guid>
-            <pubDate>Tue, 19 Jul 2016 14:50:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
