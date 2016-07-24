@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 04:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 12:28:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Watch the first trailer for Wonder Woman]]></title>
+            <description><![CDATA[<article><h1>Watch the first trailer for Wonder Woman</h1><p>Warner's Bros. debuted the first trailer for next year's Wonder Woman movie during it's massive Hall H panel here at San Diego Comic-Con. Director Patty Jenkins took the stage to talk about the film, and how important Wonder Woman is as a character and as a superhero.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f47fdb6d0d2f483bc25e51a98a7812c6/noop.png?input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2FrHYZSE4E4LBIn-2s5GY4atcaYUk%3D%2F112x0%3A733x349%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50186305%2FScreenshot_2016-07-23_12.08.23.0.0.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/7/23/12263314/wonder-woman-trailer-dc-comic-con-2016</link>
+            <guid isPermaLink="false">720c475b-9f91-4c2e-9dcb-fd52e68ad9da</guid>
+            <pubDate>Sun, 24 Jul 2016 12:28:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Musk: Tesla to become a sustainable energy company]]></title>
-            <description><![CDATA[<article><h1>Musk: Tesla to become a sustainable energy company</h1><p>On Wednesday evening, Tesla CEO and founder Elon Musk released his " Master Plan 2," detailing the ways in which he hopes to have Tesla contribute to making the energy economy sustainable. The plan would see consumers handle their own energy via a solar/battery combination and provide electric vehicles for every market segment.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2015/06/tesla-model-3-concept-art-640x480.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Musk: Tesla to become a sustainable energy company</h1><p>On Wednesday evening, Tesla CEO and founder Elon Musk released his " Master Plan 2," detailing the ways in which he hopes to have Tesla contribute to making the energy economy sustainable. The plan would see consumers handle their own energy via a solar/battery combination and provide electric vehicles for every market segment.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/beb16aa450a55ba74616de93f00e9a35/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2015%2F06%2Ftesla-model-3-concept-art-640x480.jpg"></article>]]></description>
             <link>http://arstechnica.com/cars/2016/07/musk-tesla-to-become-a-sustainable-energy-company/</link>
             <guid isPermaLink="false">55d67139-93a7-4199-acb2-53db775a9e29</guid>
             <pubDate>Sun, 24 Jul 2016 04:01:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.loopinsight.com/2016/07/18/apple-begins-rolling-out-itunes-match-with-audio-fingerprint-to-apple-music-subscribers/</link>
             <guid isPermaLink="false">40ae4def-f9e5-410a-b2a9-a02a2b71596c</guid>
             <pubDate>Tue, 19 Jul 2016 14:50:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Army SOF to Trade in Its Androids for iPhones]]></title>
-            <description><![CDATA[<article><h1>Army SOF to Trade in Its Androids for iPhones</h1><p>U.S. Army Special Operations Command is dumping its Android tactical smartphone for an iPhone model. The iPhone 6S will become the end-user device for the iPhone Tactical Assault Kit - special-operations-forces version Army's Nett Warrior battlefield situational awareness tool, according to an Army source, who is not authorized to speak to the media.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c318cca912b565ddbb515824df99d727/noop.jpg?input=http%3A%2F%2Fi1.wp.com%2Fwww.dodbuzz.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fip6-productshot-black1_33e71468-61db-484c-93dc-64c91d81b4aa_1024x1024.jpg%3Fresize%3D650%252C434"></article>]]></description>
-            <link>http://www.dodbuzz.com/2016/07/15/army-sof-to-trade-in-its-androids-for-iphones/</link>
-            <guid isPermaLink="false">07b48caf-05c8-41ba-8569-7203afa47f81</guid>
-            <pubDate>Tue, 19 Jul 2016 14:44:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
