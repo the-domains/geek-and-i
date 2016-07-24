@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 16:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 21:36:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US Judge orders accused pimp to use his fingerprint to unlock iPhone]]></title>
+            <description><![CDATA[<article><h1>US Judge orders accused pimp to use his fingerprint to unlock iPhone</h1><p>A Dallas, Texas man accused of prostituting underage girls was secretly ordered by a federal judge to unlock his iPhone using his fingerprint, according to federal court documents that are now unsealed. It's rare that we see a case demanding that a phone be unlocked in that manner, but we should expect more as the mainstream public begins embracing fingerprint technology.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/07/keys-640x640.jpg"></article>]]></description>
+            <link>http://arstechnica.com/tech-policy/2016/07/us-judge-orders-accused-pimp-to-use-his-fingerprint-to-unlock-iphone/</link>
+            <guid isPermaLink="false">0051843a-d66e-4c53-aa2c-fac99eb97564</guid>
+            <pubDate>Sun, 24 Jul 2016 21:35:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chuck Wendig's final Aftermath novel will help set up The Force Awakens]]></title>
             <description><![CDATA[<article><h1>Chuck Wendig's final Aftermath novel will help set up The Force Awakens</h1><p>Since the release of Star Wars: The Force Awakens, Chuck Wendig has been working to explore the post- Return of the Jedi era with his Aftermath trilogy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8995da0dc34eddb4522bb35557c7645b/noop.png?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2FZUCNem2aAIjgl9Mvy-RttTUzR0w%3D%2F0x0%3A931x524%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50186051%2FEmpires_End_cover.0.0.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://xkcd.com/1357/</link>
             <guid isPermaLink="false">7559b94b-f38a-4460-9f2a-22c72f61d059</guid>
             <pubDate>Thu, 21 Jul 2016 15:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Human Chronicles Saga]]></title>
-            <description><![CDATA[<article><h1>The Human Chronicles Saga</h1><p>Adam Cain is an Alien with an Attitude! After all, what would you do if you were abducted by aliens and dropped into a strange, new universe away from your home, your family -- everything familiar to you? Would it make you happy? Not likely!<p />Now imagine you're stronger, faster and more coordinated than every alien species you encounter. Would you start kicking some butt? Of course you would!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/acdf32780a8accd938c408cf98f905cf/croprotate.png?cropheight=2559&cropwidth=3650&degrees=0&input=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2FD1XKuHqO1eS.png&x=0&y=0"></article>]]></description>
-            <link>https://www.amazon.com/dp/B01FXT8WMU/?tag=mikehorwath-20</link>
-            <guid isPermaLink="false">e57a4672-ece2-45e5-8160-fa252b8ce664</guid>
-            <pubDate>Thu, 21 Jul 2016 15:43:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
