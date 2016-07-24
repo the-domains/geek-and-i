@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 21:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 21:58:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Groot and Rocket Raccoon are the stars of this year's official space station lab patch]]></title>
+            <description><![CDATA[<article><h1>Groot and Rocket Raccoon are the stars of this year's official space station lab patch</h1><p>Perhaps the best perk of working on a NASA mission is getting the official stitched mission patch. Nearly every project at the space agency produces its own unique emblem that is adorned by astronauts and engineers alike, serving as a reminder of the hard work put into each assignment.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/66d32fc0c90328816abd3d2234aad583/croprotate.png?cropheight=900&cropwidth=928&degrees=0&input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2FugnO1AcOcxhxx4guhRR8LNliZPw%3D%2F0x194%3A2048x1346%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50181847%2FFotorCreated.0.0.png&x=335&y=0"></article>]]></description>
+            <link>http://www.theverge.com/2016/7/22/12256986/nasa-mission-patch-iss-guardians-of-the-galaxy</link>
+            <guid isPermaLink="false">0637555c-c966-459d-90b2-2aba7cf03508</guid>
+            <pubDate>Sun, 24 Jul 2016 21:58:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US Judge orders accused pimp to use his fingerprint to unlock iPhone]]></title>
-            <description><![CDATA[<article><h1>US Judge orders accused pimp to use his fingerprint to unlock iPhone</h1><p>A Dallas, Texas man accused of prostituting underage girls was secretly ordered by a federal judge to unlock his iPhone using his fingerprint, according to federal court documents that are now unsealed. It's rare that we see a case demanding that a phone be unlocked in that manner, but we should expect more as the mainstream public begins embracing fingerprint technology.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/07/keys-640x640.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>US Judge orders accused pimp to use his fingerprint to unlock iPhone</h1><p>A Dallas, Texas man accused of prostituting underage girls was secretly ordered by a federal judge to unlock his iPhone using his fingerprint, according to federal court documents that are now unsealed. It's rare that we see a case demanding that a phone be unlocked in that manner, but we should expect more as the mainstream public begins embracing fingerprint technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ced327f6fc51714b2387c04de21784ec/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fkeys-640x640.jpg"></article>]]></description>
             <link>http://arstechnica.com/tech-policy/2016/07/us-judge-orders-accused-pimp-to-use-his-fingerprint-to-unlock-iphone/</link>
             <guid isPermaLink="false">0051843a-d66e-4c53-aa2c-fac99eb97564</guid>
             <pubDate>Sun, 24 Jul 2016 21:35:55 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.amazon.com/dp/B01BOWI2J8/?tag=mikehorwath-20</link>
             <guid isPermaLink="false">36a9bfcb-aa27-49de-ab87-4ac26185e62a</guid>
             <pubDate>Fri, 22 Jul 2016 12:49:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[xkcd: Free Speech]]></title>
-            <description><![CDATA[<article><h1>xkcd: Free Speech</h1><p>BTC 1FhCLQK2ZXtCUQDtG98p6fVH7S6mxAsEey We did not invent the algorithm. The algorithm consistently finds Jesus. The algorithm killed Jeeves. The algorithm is banned in China. The algorithm is from Jersey. The algorithm constantly finds Jesus. This is not the algorithm. This is close.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b37ac84c002ac83695cb8822b3de8367/noop.png?input=https%3A%2F%2Fimgs.xkcd.com%2Fcomics%2Ffree_speech.png"></article>]]></description>
-            <link>https://xkcd.com/1357/</link>
-            <guid isPermaLink="false">7559b94b-f38a-4460-9f2a-22c72f61d059</guid>
-            <pubDate>Thu, 21 Jul 2016 15:50:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
