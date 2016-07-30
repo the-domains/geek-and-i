@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 23:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 00:07:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Tesla Gigafactory launch event tonight will be streamed online]]></title>
+            <description><![CDATA[<article><h1>Tesla Gigafactory launch event tonight will be streamed online</h1><p>Tesla will stream its Gigafactory launch party on its website, according to a tweet from Tesla CEO Elon Musk. The party, for Tesla vehicle owners who referred five other buyers as well as VIP guests, follows a press preview earlier this week that The Verge attended.</p><img src="https://cdn1.vox-cdn.com/thumbor/z3VAHwUkA5xYuc5zvLqXAAYcrLM=/0x102:2040x1250/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/50247915/jgolson_160726_1173_0050.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/7/29/12327180/tesla-gigafactory-launch-party-livestream</link>
+            <guid isPermaLink="false">0a9f747f-48cc-418c-8e48-d5d39df7fe15</guid>
+            <pubDate>Sat, 30 Jul 2016 00:06:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mercedes pulls TV ad over potentially misleading automated driving claims]]></title>
-            <description><![CDATA[<article><h1>Mercedes pulls TV ad over potentially misleading automated driving claims</h1><p>Mercedes has discontinued a television ad for its new E-Class sedan. It comes after criticism from a number of consumer groups over a comparison the company made between its autonomous F 015 concept car and the advanced driver-assist systems in the E-Class.</p><img src="https://cdn2.vox-cdn.com/thumbor/msADbxEg2wRJAPdPg5GugW4LSHk=/173x0:1103x523/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/50248637/Screen_20Shot_202016-07-29_20at_202.52.01_20PM.0.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Mercedes pulls TV ad over potentially misleading automated driving claims</h1><p>Mercedes has discontinued a television ad for its new E-Class sedan. It comes after criticism from a number of consumer groups over a comparison the company made between its autonomous F 015 concept car and the advanced driver-assist systems in the E-Class.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e599607f97a1eda16fa798317780aed2/noop.png?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2FmsADbxEg2wRJAPdPg5GugW4LSHk%3D%2F173x0%3A1103x523%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50248637%2FScreen_20Shot_202016-07-29_20at_202.52.01_20PM.0.png"></article>]]></description>
             <link>http://www.theverge.com/2016/7/29/12325564/mercedes-benz-television-ad-pulled-e-class</link>
             <guid isPermaLink="false">6da7f605-6463-4f37-9a6d-7fd4f3fbab37</guid>
             <pubDate>Fri, 29 Jul 2016 23:18:08 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/7/22/12258320/american-gods-teaser-san-diego-comic-con-2016</link>
             <guid isPermaLink="false">36c20cb1-908e-458d-a7f2-ddf481bb35f6</guid>
             <pubDate>Sun, 24 Jul 2016 04:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tesla quietly upgraded its Superchargers for faster charging, now capable of 145 kW]]></title>
-            <description><![CDATA[<article><h1>Tesla quietly upgraded its Superchargers for faster charging, now capable of 145 kW</h1><p>Tesla has long claimed that its Supercharger is 'The World's Fastest Charging Station', but the claim was recently challenged in front of the UK's Advertising Standards Authority (ASA) after a long legal battle between the automaker and Ecotricity, a British energy provider.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7edd5e5ee52197e16530a8e94311ef9e/noop.jpg?input=https%3A%2F%2Felectrek.files.wordpress.com%2F2016%2F05%2Fsupercharger-drummondville.jpg%3Fquality%3D82%26strip%3Dall%26strip%3Dall%26w%3D1600%26h%3D1000"></article>]]></description>
-            <link>http://electrek.co/2016/07/20/tesla-supercharger-capacity-increase-145-kw/</link>
-            <guid isPermaLink="false">004305d4-2552-42a1-a555-df8303187a1e</guid>
-            <pubDate>Fri, 22 Jul 2016 22:51:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
