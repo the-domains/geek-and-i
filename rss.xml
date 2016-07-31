@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 00:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 19:32:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[There are limits to 2FA and it can be near-crippling to your digital life]]></title>
+            <description><![CDATA[<article><h1>There are limits to 2FA and it can be near-crippling to your digital life</h1><p>This piece first appeared on Medium and is republished here with the permission of the author. It reveals a limitation in the way Apple approaches 2FA, which is most likely a deliberate decision. Apple engineers probably recognize that someone who loses their phone won't be able to wipe data if 2FA is enforced, and this story is a good reminder of the pitfalls.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea01424d02b41b7d8df2aa393a37a5c2/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fphonecloseup-980x653.jpg"></article>]]></description>
+            <link>http://arstechnica.com/security/2016/07/there-are-limits-to-2fa-and-it-can-be-near-crippling-to-your-digital-life/</link>
+            <guid isPermaLink="false">0c73335b-af3f-47e8-8caa-e51138093521</guid>
+            <pubDate>Sun, 31 Jul 2016 19:32:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tesla Gigafactory launch event tonight will be streamed online]]></title>
-            <description><![CDATA[<article><h1>Tesla Gigafactory launch event tonight will be streamed online</h1><p>Tesla will stream its Gigafactory launch party on its website, according to a tweet from Tesla CEO Elon Musk. The party, for Tesla vehicle owners who referred five other buyers as well as VIP guests, follows a press preview earlier this week that The Verge attended.</p><img src="https://cdn1.vox-cdn.com/thumbor/z3VAHwUkA5xYuc5zvLqXAAYcrLM=/0x102:2040x1250/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/50247915/jgolson_160726_1173_0050.0.0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Tesla Gigafactory launch event tonight will be streamed online</h1><p>Tesla will stream its Gigafactory launch party on its website, according to a tweet from Tesla CEO Elon Musk. The party, for Tesla vehicle owners who referred five other buyers as well as VIP guests, follows a press preview earlier this week that The Verge attended.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/105826910294d50c2ae8f475e36b81dd/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2Fz3VAHwUkA5xYuc5zvLqXAAYcrLM%3D%2F0x102%3A2040x1250%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50247915%2Fjgolson_160726_1173_0050.0.0.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/7/29/12327180/tesla-gigafactory-launch-party-livestream</link>
             <guid isPermaLink="false">0a9f747f-48cc-418c-8e48-d5d39df7fe15</guid>
             <pubDate>Sat, 30 Jul 2016 00:06:46 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/cars/2016/07/musk-tesla-to-become-a-sustainable-energy-company/</link>
             <guid isPermaLink="false">55d67139-93a7-4199-acb2-53db775a9e29</guid>
             <pubDate>Sun, 24 Jul 2016 04:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[American Gods' first teaser is here]]></title>
-            <description><![CDATA[<article><h1>American Gods' first teaser is here</h1><p>American Gods, the TV adaption of Neil Gaiman's acclaimed novel, is actually happening. Like for real, really actually happening, after years of being kicked back and forth. And now Starz has put out a first preview of the show.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/85d6494569cf48b9ce993d431fd5713a/noop.png?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2FbFLR5Y5rlfh1MuVPXLG28dVKWGQ%3D%2F69x0%3A1394x745%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50183765%2FScreen_Shot_2016-07-22_at_4.52.54_PM.0.0.png"></article>]]></description>
-            <link>http://www.theverge.com/2016/7/22/12258320/american-gods-teaser-san-diego-comic-con-2016</link>
-            <guid isPermaLink="false">36c20cb1-908e-458d-a7f2-ddf481bb35f6</guid>
-            <pubDate>Sun, 24 Jul 2016 04:01:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
