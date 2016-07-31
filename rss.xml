@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 19:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 19:47:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet Moxie Marlinspike, the Anarchist Bringing Encryption to All of Us]]></title>
+            <description><![CDATA[<article><h1>Meet Moxie Marlinspike, the Anarchist Bringing Encryption to All of Us</h1><p>On the first day of the sprawling RSA security industry conference in San Francisco, a giant screen covering the wall of the Moscone Center's cavernous lobby cycles through the names and headshots of keynote speakers: steely-eyed National Security Agency director Michael Rogers in a crisp military uniform; bearded and besuited Whitfield Diffie and Ron Rivest, legendary inventors of seminal encryption protocols that made the Internet safe for communication and commerce.</p><img src="https://www.wired.com/wp-content/uploads/2016/07/marlinspike_portrait.jpg"></article>]]></description>
+            <link>https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/</link>
+            <guid isPermaLink="false">1f8d607f-1ec8-49a7-a784-16afa46e670c</guid>
+            <pubDate>Sun, 31 Jul 2016 19:46:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[There are limits to 2FA and it can be near-crippling to your digital life]]></title>
             <description><![CDATA[<article><h1>There are limits to 2FA and it can be near-crippling to your digital life</h1><p>This piece first appeared on Medium and is republished here with the permission of the author. It reveals a limitation in the way Apple approaches 2FA, which is most likely a deliberate decision. Apple engineers probably recognize that someone who loses their phone won't be able to wipe data if 2FA is enforced, and this story is a good reminder of the pitfalls.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea01424d02b41b7d8df2aa393a37a5c2/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fphonecloseup-980x653.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/7/23/12263314/wonder-woman-trailer-dc-comic-con-2016</link>
             <guid isPermaLink="false">720c475b-9f91-4c2e-9dcb-fd52e68ad9da</guid>
             <pubDate>Sun, 24 Jul 2016 12:28:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Musk: Tesla to become a sustainable energy company]]></title>
-            <description><![CDATA[<article><h1>Musk: Tesla to become a sustainable energy company</h1><p>On Wednesday evening, Tesla CEO and founder Elon Musk released his " Master Plan 2," detailing the ways in which he hopes to have Tesla contribute to making the energy economy sustainable. The plan would see consumers handle their own energy via a solar/battery combination and provide electric vehicles for every market segment.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/beb16aa450a55ba74616de93f00e9a35/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2015%2F06%2Ftesla-model-3-concept-art-640x480.jpg"></article>]]></description>
-            <link>http://arstechnica.com/cars/2016/07/musk-tesla-to-become-a-sustainable-energy-company/</link>
-            <guid isPermaLink="false">55d67139-93a7-4199-acb2-53db775a9e29</guid>
-            <pubDate>Sun, 24 Jul 2016 04:01:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
