@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 19:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 04:23:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Is Elon Musk serious about the Tesla Semi?]]></title>
+            <description><![CDATA[<article><h1>Is Elon Musk serious about the Tesla Semi?</h1><p>Out of all of Elon Musk's recent "Master Plan Part Deux," the part that really caught our eye was a short paragraph about a Tesla semi. Much of the rest-solar, autonomous driving, ride-sharing-wasn't exactly unforeseen. But the idea of a heavy duty Tesla electric vehicle took us by surprise and left us scratching our heads.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/08/WS_Mack-LR-640x480.jpg"></article>]]></description>
+            <link>http://arstechnica.com/cars/2016/08/is-elon-musk-serious-about-the-tesla-semi/</link>
+            <guid isPermaLink="false">b1124810-3276-488a-85af-4d88ed275154</guid>
+            <pubDate>Wed, 03 Aug 2016 04:23:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meet Moxie Marlinspike, the Anarchist Bringing Encryption to All of Us]]></title>
-            <description><![CDATA[<article><h1>Meet Moxie Marlinspike, the Anarchist Bringing Encryption to All of Us</h1><p>On the first day of the sprawling RSA security industry conference in San Francisco, a giant screen covering the wall of the Moscone Center's cavernous lobby cycles through the names and headshots of keynote speakers: steely-eyed National Security Agency director Michael Rogers in a crisp military uniform; bearded and besuited Whitfield Diffie and Ron Rivest, legendary inventors of seminal encryption protocols that made the Internet safe for communication and commerce.</p><img src="https://www.wired.com/wp-content/uploads/2016/07/marlinspike_portrait.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Meet Moxie Marlinspike, the Anarchist Bringing Encryption to All of Us</h1><p>On the first day of the sprawling RSA security industry conference in San Francisco, a giant screen covering the wall of the Moscone Center's cavernous lobby cycles through the names and headshots of keynote speakers: steely-eyed National Security Agency director Michael Rogers in a crisp military uniform; bearded and besuited Whitfield Diffie and Ron Rivest, legendary inventors of seminal encryption protocols that made the Internet safe for communication and commerce.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/953f9688d0d364e1dd8f56bad08a0c52/croprotate.jpg?cropheight=2250&cropwidth=1799&degrees=0&input=https%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fmarlinspike_portrait.jpg&x=0&y=0"></article>]]></description>
             <link>https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/</link>
             <guid isPermaLink="false">1f8d607f-1ec8-49a7-a784-16afa46e670c</guid>
             <pubDate>Sun, 31 Jul 2016 19:46:49 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/7/23/12262564/chuck-wendig-aftermath-empires-end-novel-force-awakens</link>
             <guid isPermaLink="false">0aed9dd1-947c-4aa5-a251-bf844f37530c</guid>
             <pubDate>Sun, 24 Jul 2016 16:48:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch the first trailer for Wonder Woman]]></title>
-            <description><![CDATA[<article><h1>Watch the first trailer for Wonder Woman</h1><p>Warner's Bros. debuted the first trailer for next year's Wonder Woman movie during it's massive Hall H panel here at San Diego Comic-Con. Director Patty Jenkins took the stage to talk about the film, and how important Wonder Woman is as a character and as a superhero.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f47fdb6d0d2f483bc25e51a98a7812c6/noop.png?input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2FrHYZSE4E4LBIn-2s5GY4atcaYUk%3D%2F112x0%3A733x349%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50186305%2FScreenshot_2016-07-23_12.08.23.0.0.png"></article>]]></description>
-            <link>http://www.theverge.com/2016/7/23/12263314/wonder-woman-trailer-dc-comic-con-2016</link>
-            <guid isPermaLink="false">720c475b-9f91-4c2e-9dcb-fd52e68ad9da</guid>
-            <pubDate>Sun, 24 Jul 2016 12:28:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
