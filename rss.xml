@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 04:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 23:30:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Tiny rocket company aims for 100 launches a year-and it just might succeed]]></title>
+            <description><![CDATA[<article><h1>Tiny rocket company aims for 100 launches a year-and it just might succeed</h1><p>Alone in the Mojave desert, the tiny rocket stood barely as tall as a basketball goal backboard. Launch control was a laptop inside a nearby bunker, and the small gathering of aerospace engineers and investors seemed almost like a rocket hobby club as they watched the vehicle soar to about 5,000 feet before parachuting back to Earth.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e18403ddd97bb7ca9d2a3e244aa225b3/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2F13680965_269472006757075_5300719751498717914_n-640x480.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/08/tiny-rocket-company-aims-for-100-launches-a-year-and-it-just-might-succeed/</link>
+            <guid isPermaLink="false">69704a8e-271a-4eea-9b41-cc93624c9304</guid>
+            <pubDate>Wed, 03 Aug 2016 23:30:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is Elon Musk serious about the Tesla Semi?]]></title>
-            <description><![CDATA[<article><h1>Is Elon Musk serious about the Tesla Semi?</h1><p>Out of all of Elon Musk's recent "Master Plan Part Deux," the part that really caught our eye was a short paragraph about a Tesla semi. Much of the rest-solar, autonomous driving, ride-sharing-wasn't exactly unforeseen. But the idea of a heavy duty Tesla electric vehicle took us by surprise and left us scratching our heads.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/08/WS_Mack-LR-640x480.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Is Elon Musk serious about the Tesla Semi?</h1><p>Out of all of Elon Musk's recent "Master Plan Part Deux," the part that really caught our eye was a short paragraph about a Tesla semi. Much of the rest-solar, autonomous driving, ride-sharing-wasn't exactly unforeseen. But the idea of a heavy duty Tesla electric vehicle took us by surprise and left us scratching our heads.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e9b2daad5809a0bdefbf8b368f7debe/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2FWS_Mack-LR-640x480.jpg"></article>]]></description>
             <link>http://arstechnica.com/cars/2016/08/is-elon-musk-serious-about-the-tesla-semi/</link>
             <guid isPermaLink="false">b1124810-3276-488a-85af-4d88ed275154</guid>
             <pubDate>Wed, 03 Aug 2016 04:23:03 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/tech-policy/2016/07/us-judge-orders-accused-pimp-to-use-his-fingerprint-to-unlock-iphone/</link>
             <guid isPermaLink="false">0051843a-d66e-4c53-aa2c-fac99eb97564</guid>
             <pubDate>Sun, 24 Jul 2016 21:35:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chuck Wendig's final Aftermath novel will help set up The Force Awakens]]></title>
-            <description><![CDATA[<article><h1>Chuck Wendig's final Aftermath novel will help set up The Force Awakens</h1><p>Since the release of Star Wars: The Force Awakens, Chuck Wendig has been working to explore the post- Return of the Jedi era with his Aftermath trilogy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8995da0dc34eddb4522bb35557c7645b/noop.png?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2FZUCNem2aAIjgl9Mvy-RttTUzR0w%3D%2F0x0%3A931x524%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50186051%2FEmpires_End_cover.0.0.png"></article>]]></description>
-            <link>http://www.theverge.com/2016/7/23/12262564/chuck-wendig-aftermath-empires-end-novel-force-awakens</link>
-            <guid isPermaLink="false">0aed9dd1-947c-4aa5-a251-bf844f37530c</guid>
-            <pubDate>Sun, 24 Jul 2016 16:48:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
