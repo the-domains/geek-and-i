@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 23:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 23:45:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tesla: Model X and S production on track, investing heavily in Model 3]]></title>
+            <description><![CDATA[<article><h1>Tesla: Model X and S production on track, investing heavily in Model 3</h1><p>Tesla's earnings for the second quarter of 2016 are out, and the company looks to be assuring investors that things are on track, both for the existing Model S and Model X cars and the upcoming Model 3. Tesla says it has completed the design of the Model 3 and that it has moved on to tooling, production planning, and validation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca0e05b5cd4df470ec93c4ba035f2189/noop.png?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2Fnyv_Iu0iKMhm98MMPNyRFFlRxhc%3D%2F0x78%3A1500x922%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50288913%2Fakrales_160419_1019_A_0257.0.0.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/3/12370868/tesla-earnings-q3-2016-model-3-investment</link>
+            <guid isPermaLink="false">05198407-e4c7-452f-bdfe-da09cf3594cd</guid>
+            <pubDate>Wed, 03 Aug 2016 23:45:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apple says all US employees now receive equal pay for equal work]]></title>
             <description><![CDATA[<article><h1>Apple says all US employees now receive equal pay for equal work</h1><p>Today, Apple released updated diversity figures indicating it has made slight but steady progress in hiring more women and underrepresented minorities - and ensuring those employees are paid the same as their white male counterparts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bd4c6e54e9930814365cd2bbc6f57d05/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2FkDuMrxnLlgh57zFYI2MpTEB-Gzw%3D%2F0x0%3A3000x1688%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50289123%2FGettyImages-524657074.0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=bqm9HSYbf0o</link>
             <guid isPermaLink="false">5be8889e-4d39-409b-9595-188152d82247</guid>
             <pubDate>Sun, 24 Jul 2016 22:02:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Groot and Rocket Raccoon are the stars of this year's official space station lab patch]]></title>
-            <description><![CDATA[<article><h1>Groot and Rocket Raccoon are the stars of this year's official space station lab patch</h1><p>Perhaps the best perk of working on a NASA mission is getting the official stitched mission patch. Nearly every project at the space agency produces its own unique emblem that is adorned by astronauts and engineers alike, serving as a reminder of the hard work put into each assignment.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/66d32fc0c90328816abd3d2234aad583/croprotate.png?cropheight=900&cropwidth=928&degrees=0&input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2FugnO1AcOcxhxx4guhRR8LNliZPw%3D%2F0x194%3A2048x1346%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50181847%2FFotorCreated.0.0.png&x=335&y=0"></article>]]></description>
-            <link>http://www.theverge.com/2016/7/22/12256986/nasa-mission-patch-iss-guardians-of-the-galaxy</link>
-            <guid isPermaLink="false">0637555c-c966-459d-90b2-2aba7cf03508</guid>
-            <pubDate>Sun, 24 Jul 2016 21:58:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
