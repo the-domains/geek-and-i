@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 23:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 23:33:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple says all US employees now receive equal pay for equal work]]></title>
+            <description><![CDATA[<article><h1>Apple says all US employees now receive equal pay for equal work</h1><p>Today, Apple released updated diversity figures indicating it has made slight but steady progress in hiring more women and underrepresented minorities - and ensuring those employees are paid the same as their white male counterparts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bd4c6e54e9930814365cd2bbc6f57d05/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2FkDuMrxnLlgh57zFYI2MpTEB-Gzw%3D%2F0x0%3A3000x1688%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50289123%2FGettyImages-524657074.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/3/12371204/apple-diversity-report-pay-gap-hiring-equal-pay</link>
+            <guid isPermaLink="false">127db620-8e40-4b47-b226-608f0313c7ea</guid>
+            <pubDate>Wed, 03 Aug 2016 23:33:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tiny rocket company aims for 100 launches a year-and it just might succeed]]></title>
             <description><![CDATA[<article><h1>Tiny rocket company aims for 100 launches a year-and it just might succeed</h1><p>Alone in the Mojave desert, the tiny rocket stood barely as tall as a basketball goal backboard. Launch control was a laptop inside a nearby bunker, and the small gathering of aerospace engineers and investors seemed almost like a rocket hobby club as they watched the vehicle soar to about 5,000 feet before parachuting back to Earth.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e18403ddd97bb7ca9d2a3e244aa225b3/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2F13680965_269472006757075_5300719751498717914_n-640x480.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/7/22/12256986/nasa-mission-patch-iss-guardians-of-the-galaxy</link>
             <guid isPermaLink="false">0637555c-c966-459d-90b2-2aba7cf03508</guid>
             <pubDate>Sun, 24 Jul 2016 21:58:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Judge orders accused pimp to use his fingerprint to unlock iPhone]]></title>
-            <description><![CDATA[<article><h1>US Judge orders accused pimp to use his fingerprint to unlock iPhone</h1><p>A Dallas, Texas man accused of prostituting underage girls was secretly ordered by a federal judge to unlock his iPhone using his fingerprint, according to federal court documents that are now unsealed. It's rare that we see a case demanding that a phone be unlocked in that manner, but we should expect more as the mainstream public begins embracing fingerprint technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ced327f6fc51714b2387c04de21784ec/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fkeys-640x640.jpg"></article>]]></description>
-            <link>http://arstechnica.com/tech-policy/2016/07/us-judge-orders-accused-pimp-to-use-his-fingerprint-to-unlock-iphone/</link>
-            <guid isPermaLink="false">0051843a-d66e-4c53-aa2c-fac99eb97564</guid>
-            <pubDate>Sun, 24 Jul 2016 21:35:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
