@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 23:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 13:13:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yahoo investigating claimed breach and data dump of 200 million users]]></title>
+            <description><![CDATA[<article><h1>Yahoo investigating claimed breach and data dump of 200 million users</h1><p>A notorious black hat says he has more than 200 million hacked Yahoo accounts for sale on the dark Web. The company says it is "aware of [the] claim," but is refusing to comment on its veracity. Yahoo accounts are primarily used to log into the company's webmail service, but also for other sites like Flickr.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a366d29328e5a97d01fafd64a8cdcb28/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2015%2F12%2Fyahoo_on_ice-4e676d2-intro-640x427.jpg"></article>]]></description>
+            <link>http://arstechnica.com/security/2016/08/yahoo-email-data-breach-dump/</link>
+            <guid isPermaLink="false">b7bf6eec-95f1-4357-b95a-1882a7c6e228</guid>
+            <pubDate>Thu, 04 Aug 2016 13:13:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tesla: Model X and S production on track, investing heavily in Model 3]]></title>
             <description><![CDATA[<article><h1>Tesla: Model X and S production on track, investing heavily in Model 3</h1><p>Tesla's earnings for the second quarter of 2016 are out, and the company looks to be assuring investors that things are on track, both for the existing Model S and Model X cars and the upcoming Model 3. Tesla says it has completed the design of the Model 3 and that it has moved on to tooling, production planning, and validation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca0e05b5cd4df470ec93c4ba035f2189/noop.png?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2Fnyv_Iu0iKMhm98MMPNyRFFlRxhc%3D%2F0x78%3A1500x922%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50288913%2Fakrales_160419_1019_A_0257.0.0.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/geekandi/the-hackers-guide-to-high-performance-hustling-part-12/index.html</link>
             <guid isPermaLink="false">f956205f-81d9-4aee-9fa0-767017458ae4</guid>
             <pubDate>Sun, 24 Jul 2016 22:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First Look - Test Flight of Star Trek's U.S.S. Discovery]]></title>
-            <description><![CDATA[<article><h1>First Look - Test Flight of Star Trek's U.S.S. Discovery</h1><p>Revealed at Comic-Con 2016 by Executive Producer Bryan Fuller. Get a sneak peek of the newest ship in the "Star Trek" universe. Star Trek: Discovery premieres January 2017 on the CBS Television Network with the premiere and all subsequent episodes available exclusively on CBS All Access.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/45327eca67d33907ecf0dffc6d03edd6/croprotate.jpg?cropheight=280&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fbqm9HSYbf0o%2Fhqdefault.jpg&x=0&y=40"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=bqm9HSYbf0o</link>
-            <guid isPermaLink="false">5be8889e-4d39-409b-9595-188152d82247</guid>
-            <pubDate>Sun, 24 Jul 2016 22:02:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
