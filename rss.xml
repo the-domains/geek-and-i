@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 19:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 02:01:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good news-the robocalling scourge may not be unstoppable after all]]></title>
+            <description><![CDATA[<article><h1>Good news-the robocalling scourge may not be unstoppable after all</h1><p>New data shows that the majority of robot-enabled scam phone calls came from fewer than 40 call centers, a finding that offers hope the growing menace of robocalls can be stopped.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4e8f516f39d6988da4b2d6d72f03f8b/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Frobo-640x480.jpg"></article>]]></description>
+            <link>http://arstechnica.com/security/2016/08/good-news-the-robocalling-scourge-may-not-be-unstoppable-after-all/</link>
+            <guid isPermaLink="false">5d564ae8-4604-4a54-8396-244e1684e7be</guid>
+            <pubDate>Tue, 09 Aug 2016 02:01:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Starting this fall, Apple will pay up to $200,000 for iOS and iCloud bugs]]></title>
             <description><![CDATA[<article><h1>Starting this fall, Apple will pay up to $200,000 for iOS and iCloud bugs</h1><p>As part of a security presentation given at this year's Black Hat conference, Apple today announced that it would be starting up a bug bounty program in the fall. The program will reward security researchers who uncover vulnerabilities in Apple's products and bring them to the company's attention.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/397f70bb6fd2e542e7c2df6b7373e48a/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2FDSC04005-640x360.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/7/29/12327180/tesla-gigafactory-launch-party-livestream</link>
             <guid isPermaLink="false">0a9f747f-48cc-418c-8e48-d5d39df7fe15</guid>
             <pubDate>Sat, 30 Jul 2016 00:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mercedes pulls TV ad over potentially misleading automated driving claims]]></title>
-            <description><![CDATA[<article><h1>Mercedes pulls TV ad over potentially misleading automated driving claims</h1><p>Mercedes has discontinued a television ad for its new E-Class sedan. It comes after criticism from a number of consumer groups over a comparison the company made between its autonomous F 015 concept car and the advanced driver-assist systems in the E-Class.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e599607f97a1eda16fa798317780aed2/noop.png?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2FmsADbxEg2wRJAPdPg5GugW4LSHk%3D%2F173x0%3A1103x523%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50248637%2FScreen_20Shot_202016-07-29_20at_202.52.01_20PM.0.png"></article>]]></description>
-            <link>http://www.theverge.com/2016/7/29/12325564/mercedes-benz-television-ad-pulled-e-class</link>
-            <guid isPermaLink="false">6da7f605-6463-4f37-9a6d-7fd4f3fbab37</guid>
-            <pubDate>Fri, 29 Jul 2016 23:18:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
