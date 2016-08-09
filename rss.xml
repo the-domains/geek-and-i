@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 02:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 02:08:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Researchers crack open unusually advanced malware that hid for 5 years]]></title>
+            <description><![CDATA[<article><h1>Researchers crack open unusually advanced malware that hid for 5 years</h1><p>Security experts have discovered a malware platform that's so advanced in its design and execution that it could probably have been developed only with the active support of a nation state. The malware-known alternatively as "ProjectSauron" by researchers from Kaspersky Lab and "Remsec" by their counterparts from Symantec-has been active since at least 2011 and has been discovered on 30 or so targets.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9959bff67c8e49f051e1c7275ed48beb/croprotate.png?cropheight=208&cropwidth=640&degrees=0&input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fproject-sauron-640x236.png&x=0&y=13"></article>]]></description>
+            <link>http://arstechnica.com/security/2016/08/researchers-crack-open-unusually-advanced-malware-that-hid-for-5-years/</link>
+            <guid isPermaLink="false">b0c28e1a-351f-4868-a422-4d4e27b71855</guid>
+            <pubDate>Tue, 09 Aug 2016 02:08:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Amazon Blog - Amazon One]]></title>
             <description><![CDATA[<article><h1>About Amazon Blog - Amazon One</h1><p>Now, we see the same opportunity to innovate in transportation. I'm very excited to introduce Amazon One, a Boeing 767-300 that is our first ever Amazon branded plane which will serve customers by adding capacity to support one and two day package delivery in the US.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/</link>
             <guid isPermaLink="false">1f8d607f-1ec8-49a7-a784-16afa46e670c</guid>
             <pubDate>Sun, 31 Jul 2016 19:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There are limits to 2FA and it can be near-crippling to your digital life]]></title>
-            <description><![CDATA[<article><h1>There are limits to 2FA and it can be near-crippling to your digital life</h1><p>This piece first appeared on Medium and is republished here with the permission of the author. It reveals a limitation in the way Apple approaches 2FA, which is most likely a deliberate decision. Apple engineers probably recognize that someone who loses their phone won't be able to wipe data if 2FA is enforced, and this story is a good reminder of the pitfalls.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea01424d02b41b7d8df2aa393a37a5c2/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fphonecloseup-980x653.jpg"></article>]]></description>
-            <link>http://arstechnica.com/security/2016/07/there-are-limits-to-2fa-and-it-can-be-near-crippling-to-your-digital-life/</link>
-            <guid isPermaLink="false">0c73335b-af3f-47e8-8caa-e51138093521</guid>
-            <pubDate>Sun, 31 Jul 2016 19:32:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
