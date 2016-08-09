@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 02:01:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 02:02:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Amazon Blog - Amazon One]]></title>
+            <description><![CDATA[<article><h1>About Amazon Blog - Amazon One</h1><p>Now, we see the same opportunity to innovate in transportation. I'm very excited to introduce Amazon One, a Boeing 767-300 that is our first ever Amazon branded plane which will serve customers by adding capacity to support one and two day package delivery in the US.</p></article>]]></description>
+            <link>https://www.amazon.com/p/feature/gca37opgyo4u53v</link>
+            <guid isPermaLink="false">f3c4d57d-c075-48f4-966f-eb7319547891</guid>
+            <pubDate>Tue, 09 Aug 2016 02:01:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Good news-the robocalling scourge may not be unstoppable after all]]></title>
             <description><![CDATA[<article><h1>Good news-the robocalling scourge may not be unstoppable after all</h1><p>New data shows that the majority of robot-enabled scam phone calls came from fewer than 40 call centers, a finding that offers hope the growing menace of robocalls can be stopped.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4e8f516f39d6988da4b2d6d72f03f8b/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Frobo-640x480.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/security/2016/07/there-are-limits-to-2fa-and-it-can-be-near-crippling-to-your-digital-life/</link>
             <guid isPermaLink="false">0c73335b-af3f-47e8-8caa-e51138093521</guid>
             <pubDate>Sun, 31 Jul 2016 19:32:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tesla Gigafactory launch event tonight will be streamed online]]></title>
-            <description><![CDATA[<article><h1>Tesla Gigafactory launch event tonight will be streamed online</h1><p>Tesla will stream its Gigafactory launch party on its website, according to a tweet from Tesla CEO Elon Musk. The party, for Tesla vehicle owners who referred five other buyers as well as VIP guests, follows a press preview earlier this week that The Verge attended.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/105826910294d50c2ae8f475e36b81dd/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2Fz3VAHwUkA5xYuc5zvLqXAAYcrLM%3D%2F0x102%3A2040x1250%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50247915%2Fjgolson_160726_1173_0050.0.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/7/29/12327180/tesla-gigafactory-launch-party-livestream</link>
-            <guid isPermaLink="false">0a9f747f-48cc-418c-8e48-d5d39df7fe15</guid>
-            <pubDate>Sat, 30 Jul 2016 00:06:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
