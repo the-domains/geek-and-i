@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 03:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 18:45:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Linux bug leaves USA Today, other top sites vulnerable to serious hijacking attacks]]></title>
+            <description><![CDATA[<article><h1>Linux bug leaves USA Today, other top sites vulnerable to serious hijacking attacks</h1><p>Computer scientists have discovered a serious Internet vulnerability that allows attackers to terminate connections between virtually any two parties and, if the connections aren't encrypted, inject malicious code or content into the parties' communications. The vulnerability resides in the design and implementation of RFC 5961, a relatively new Internet standard that's intended to prevent certain classes of hacking attacks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a4d4464b9dedd5c2371ecab1e56ec614/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Foff-path-attack-640x369.jpg"></article>]]></description>
+            <link>http://arstechnica.com/security/2016/08/linux-bug-leaves-usa-today-other-top-sites-vulnerable-to-serious-hijacking-attacks/</link>
+            <guid isPermaLink="false">0aa0fbbf-4b75-4027-81be-a4d46c134976</guid>
+            <pubDate>Wed, 10 Aug 2016 18:45:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SpaceX has shipped its Mars engine to Texas for tests]]></title>
             <description><![CDATA[<article><h1>SpaceX has shipped its Mars engine to Texas for tests</h1><p>SpaceX appears to have taken a significant step forward with the development of a key component of its Mars mission architecture. According to multiple reports, during the Small Satellite Conference Tuesday in Logan, Utah, SpaceX president Gwynne Shotwell said the company has shipped a Raptor engine to its test site in MacGregor, Texas.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ef58ccdedc6262b912b6b74a6d79abf/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2F10842548203_93f75a9043_k-640x426.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/8/3/12370868/tesla-earnings-q3-2016-model-3-investment</link>
             <guid isPermaLink="false">05198407-e4c7-452f-bdfe-da09cf3594cd</guid>
             <pubDate>Wed, 03 Aug 2016 23:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple says all US employees now receive equal pay for equal work]]></title>
-            <description><![CDATA[<article><h1>Apple says all US employees now receive equal pay for equal work</h1><p>Today, Apple released updated diversity figures indicating it has made slight but steady progress in hiring more women and underrepresented minorities - and ensuring those employees are paid the same as their white male counterparts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bd4c6e54e9930814365cd2bbc6f57d05/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2FkDuMrxnLlgh57zFYI2MpTEB-Gzw%3D%2F0x0%3A3000x1688%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50289123%2FGettyImages-524657074.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/8/3/12371204/apple-diversity-report-pay-gap-hiring-equal-pay</link>
-            <guid isPermaLink="false">127db620-8e40-4b47-b226-608f0313c7ea</guid>
-            <pubDate>Wed, 03 Aug 2016 23:33:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
