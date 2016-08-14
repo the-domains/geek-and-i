@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 22:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 22:32:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet the man behind Stranger Thing's terrifying monster]]></title>
+            <description><![CDATA[<article><h1>Meet the man behind Stranger Thing's terrifying monster</h1><p>One of the coolest things about Netflix's Stranger Things was the show's antagonist, a horrifying monster that the show's characters took to calling the Demogorgon. As the show has been praised for emulating the works of Spielberg and Carpenter, the actor behind the character has his own inspirations for horrifying audiences.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/69d9192bd540ed578fc8e26f54760b13/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2FmBrajq3wcloHxZBbQL4iihDwXCs%3D%2F0x42%3A800x492%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50385893%2FMark_Steger_Still2.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/14/12474264/stranger-things-mark-steger-monster-costume-Demogorgon</link>
+            <guid isPermaLink="false">0b659569-0d90-47b1-ae41-31f62f9435a8</guid>
+            <pubDate>Sun, 14 Aug 2016 22:32:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Security News This Week: The DNC Hack Was Worse Than We Thought]]></title>
             <description><![CDATA[<article><h1>Security News This Week: The DNC Hack Was Worse Than We Thought</h1><p>As the annual mega-week of hacking conferences wound down in Las Vegas, more news surfaced about the DNC hack, and the usual trickle of vulnerabilities and breaches continued.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6d4d481ad14a73fbc53a1cefa23a13a/noop.jpg?input=https%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2016%2F08%2FGettyImages-542063866-1200x630-e1471046619900.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/security/2016/08/researchers-crack-open-unusually-advanced-malware-that-hid-for-5-years/</link>
             <guid isPermaLink="false">b0c28e1a-351f-4868-a422-4d4e27b71855</guid>
             <pubDate>Tue, 09 Aug 2016 02:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Amazon Blog - Amazon One]]></title>
-            <description><![CDATA[<article><h1>About Amazon Blog - Amazon One</h1><p>Now, we see the same opportunity to innovate in transportation. I'm very excited to introduce Amazon One, a Boeing 767-300 that is our first ever Amazon branded plane which will serve customers by adding capacity to support one and two day package delivery in the US.</p></article>]]></description>
-            <link>https://www.amazon.com/p/feature/gca37opgyo4u53v</link>
-            <guid isPermaLink="false">f3c4d57d-c075-48f4-966f-eb7319547891</guid>
-            <pubDate>Tue, 09 Aug 2016 02:01:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
