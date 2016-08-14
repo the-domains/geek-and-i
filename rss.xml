@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 21:46:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 22:32:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Security News This Week: The DNC Hack Was Worse Than We Thought]]></title>
+            <description><![CDATA[<article><h1>Security News This Week: The DNC Hack Was Worse Than We Thought</h1><p>As the annual mega-week of hacking conferences wound down in Las Vegas, more news surfaced about the DNC hack, and the usual trickle of vulnerabilities and breaches continued.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6d4d481ad14a73fbc53a1cefa23a13a/noop.jpg?input=https%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2016%2F08%2FGettyImages-542063866-1200x630-e1471046619900.jpg"></article>]]></description>
+            <link>https://www.wired.com/2016/08/security-news-week-dnc-hack-worse-thought/</link>
+            <guid isPermaLink="false">45aeec3f-5658-4509-be1b-7c4d5e12c820</guid>
+            <pubDate>Sun, 14 Aug 2016 22:32:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Should Apple Buy Netflix?]]></title>
             <description><![CDATA[<article><h1>Should Apple Buy Netflix?</h1><p>I was on Leo Laporte's TWIT show yesterday and ended up going on a bit of a rant about Apple and "Planet of the Apps." My view on "content" efforts like this is pretty simple. It is distracting, non-core to Apple and basically avoids the bigger challenges: how to add data and Internet DNA into a company that has managed to struggle with services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b5753afc4e6bcdfbae08643ff9e191c/noop.jpg?input=http%3A%2F%2Fom.co%2Fwp-content%2Fuploads%2F2016%2F08%2FNetflixOffice.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.amazon.com/p/feature/gca37opgyo4u53v</link>
             <guid isPermaLink="false">f3c4d57d-c075-48f4-966f-eb7319547891</guid>
             <pubDate>Tue, 09 Aug 2016 02:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Good news-the robocalling scourge may not be unstoppable after all]]></title>
-            <description><![CDATA[<article><h1>Good news-the robocalling scourge may not be unstoppable after all</h1><p>New data shows that the majority of robot-enabled scam phone calls came from fewer than 40 call centers, a finding that offers hope the growing menace of robocalls can be stopped.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4e8f516f39d6988da4b2d6d72f03f8b/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Frobo-640x480.jpg"></article>]]></description>
-            <link>http://arstechnica.com/security/2016/08/good-news-the-robocalling-scourge-may-not-be-unstoppable-after-all/</link>
-            <guid isPermaLink="false">5d564ae8-4604-4a54-8396-244e1684e7be</guid>
-            <pubDate>Tue, 09 Aug 2016 02:01:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
