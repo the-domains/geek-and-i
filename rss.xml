@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 18:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 21:41:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Orbital angular momentum states may vastly increase fiber's bandwidth]]></title>
+            <description><![CDATA[<article><h1>Orbital angular momentum states may vastly increase fiber's bandwidth</h1><p>We live and die by data these days. Data rates and latencies are everything, with data centers and chips designed to maximize communication speeds. The hero in the world of data is the optical fiber. Thanks to light's very high base frequency, it is possible to modulate it very quickly without using a huge amount of bandwidth.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/08/ARC-16211-1-Optical-Fiber-for-Solar-Cells1-640x484.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/08/orbital-angular-momentum-states-may-vastly-increase-fibers-bandwidth/</link>
+            <guid isPermaLink="false">ab1135ef-4a01-4de5-adbb-03324899a8e1</guid>
+            <pubDate>Sun, 14 Aug 2016 21:40:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Linux bug leaves USA Today, other top sites vulnerable to serious hijacking attacks]]></title>
             <description><![CDATA[<article><h1>Linux bug leaves USA Today, other top sites vulnerable to serious hijacking attacks</h1><p>Computer scientists have discovered a serious Internet vulnerability that allows attackers to terminate connections between virtually any two parties and, if the connections aren't encrypted, inject malicious code or content into the parties' communications. The vulnerability resides in the design and implementation of RFC 5961, a relatively new Internet standard that's intended to prevent certain classes of hacking attacks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a4d4464b9dedd5c2371ecab1e56ec614/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Foff-path-attack-640x369.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/security/2016/08/yahoo-email-data-breach-dump/</link>
             <guid isPermaLink="false">b7bf6eec-95f1-4357-b95a-1882a7c6e228</guid>
             <pubDate>Thu, 04 Aug 2016 13:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tesla: Model X and S production on track, investing heavily in Model 3]]></title>
-            <description><![CDATA[<article><h1>Tesla: Model X and S production on track, investing heavily in Model 3</h1><p>Tesla's earnings for the second quarter of 2016 are out, and the company looks to be assuring investors that things are on track, both for the existing Model S and Model X cars and the upcoming Model 3. Tesla says it has completed the design of the Model 3 and that it has moved on to tooling, production planning, and validation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca0e05b5cd4df470ec93c4ba035f2189/noop.png?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2Fnyv_Iu0iKMhm98MMPNyRFFlRxhc%3D%2F0x78%3A1500x922%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50288913%2Fakrales_160419_1019_A_0257.0.0.png"></article>]]></description>
-            <link>http://www.theverge.com/2016/8/3/12370868/tesla-earnings-q3-2016-model-3-investment</link>
-            <guid isPermaLink="false">05198407-e4c7-452f-bdfe-da09cf3594cd</guid>
-            <pubDate>Wed, 03 Aug 2016 23:45:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
