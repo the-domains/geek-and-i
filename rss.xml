@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 22:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 22:32:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SpaceX successfully lands its sixth Falcon 9 rocket after launch]]></title>
+            <description><![CDATA[<article><h1>SpaceX successfully lands its sixth Falcon 9 rocket after launch</h1><p>Another one of SpaceX's Falcon 9 rockets successfully landed on a floating drone ship this evening, after the vehicle launched a Japanese communications satellite into orbit. The feat marks the fourth time SpaceX has landed one of its vehicles at sea and the company's fifth rocket recovery overall this year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/76330347208793135e691e72ac1a5640/noop.png?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2F3AET4QCKKKm94uG62F10ZWerHz8%3D%2F70x0%3A1591x856%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50382665%2FScreen_Shot_2016-08-14_at_1.35.51_AM.0.0.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/14/12467632/spacex-falcon-9-jcsat-16-drone-ship-landing-success</link>
+            <guid isPermaLink="false">ecf363d9-a910-40a5-ae61-4a8cc40d19f3</guid>
+            <pubDate>Sun, 14 Aug 2016 22:32:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet the man behind Stranger Thing's terrifying monster]]></title>
             <description><![CDATA[<article><h1>Meet the man behind Stranger Thing's terrifying monster</h1><p>One of the coolest things about Netflix's Stranger Things was the show's antagonist, a horrifying monster that the show's characters took to calling the Demogorgon. As the show has been praised for emulating the works of Spielberg and Carpenter, the actor behind the character has his own inspirations for horrifying audiences.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/69d9192bd540ed578fc8e26f54760b13/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2FmBrajq3wcloHxZBbQL4iihDwXCs%3D%2F0x42%3A800x492%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50385893%2FMark_Steger_Still2.0.0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://evannex.com/blogs/news/tesla-vs-fossil-fuels-an-electric-showdown</link>
             <guid isPermaLink="false">7fdfc3c8-e76a-4f6f-b38a-d570758281e7</guid>
             <pubDate>Tue, 09 Aug 2016 14:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Researchers crack open unusually advanced malware that hid for 5 years]]></title>
-            <description><![CDATA[<article><h1>Researchers crack open unusually advanced malware that hid for 5 years</h1><p>Security experts have discovered a malware platform that's so advanced in its design and execution that it could probably have been developed only with the active support of a nation state. The malware-known alternatively as "ProjectSauron" by researchers from Kaspersky Lab and "Remsec" by their counterparts from Symantec-has been active since at least 2011 and has been discovered on 30 or so targets.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9959bff67c8e49f051e1c7275ed48beb/croprotate.png?cropheight=208&cropwidth=640&degrees=0&input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fproject-sauron-640x236.png&x=0&y=13"></article>]]></description>
-            <link>http://arstechnica.com/security/2016/08/researchers-crack-open-unusually-advanced-malware-that-hid-for-5-years/</link>
-            <guid isPermaLink="false">b0c28e1a-351f-4868-a422-4d4e27b71855</guid>
-            <pubDate>Tue, 09 Aug 2016 02:08:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
