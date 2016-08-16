@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 22:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 00:03:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New movie celebrates the true geniuses behind Apollo: NASA's mathematicians]]></title>
+            <description><![CDATA[<article><h1>New movie celebrates the true geniuses behind Apollo: NASA's mathematicians</h1><p>This movie has everything that a nerd could possibly desire: spaceships, astronauts, and a group of brilliant mathematicians who made NASA's Apollo mission possible. Hidden Figures focuses on the achievements of Katherine Johnson (played by Taraji Henson from Person of Interest and Empire), winner of the 2015 National Medal of Freedom.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ec17c3a6093593452841592687e8366/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fthumbnail_24795-640x360.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/08/new-movie-celebrates-the-true-geniuses-behind-apollo-nasas-mathematicians/</link>
+            <guid isPermaLink="false">82763b5d-481d-4708-af32-96f034304f82</guid>
+            <pubDate>Tue, 16 Aug 2016 00:03:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SpaceX successfully lands its sixth Falcon 9 rocket after launch]]></title>
             <description><![CDATA[<article><h1>SpaceX successfully lands its sixth Falcon 9 rocket after launch</h1><p>Another one of SpaceX's Falcon 9 rockets successfully landed on a floating drone ship this evening, after the vehicle launched a Japanese communications satellite into orbit. The feat marks the fourth time SpaceX has landed one of its vehicles at sea and the company's fifth rocket recovery overall this year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/76330347208793135e691e72ac1a5640/noop.png?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2F3AET4QCKKKm94uG62F10ZWerHz8%3D%2F70x0%3A1591x856%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50382665%2FScreen_Shot_2016-08-14_at_1.35.51_AM.0.0.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/8/9/12410716/samsung-mobile-pay-token-hack-defcon</link>
             <guid isPermaLink="false">5120d5d5-0d76-4697-89d5-2d909f0f546a</guid>
             <pubDate>Tue, 09 Aug 2016 17:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tesla Motors vs. Fossil Fuels: An electrifying showdown]]></title>
-            <description><![CDATA[<article><h1>Tesla Motors vs. Fossil Fuels: An electrifying showdown</h1><p>Tesla Motors [NASDAQ: TSLA] has a stated mission - to accelerate the advent of sustainable energy - that flies directly in the face of carbon-emitting fossil fuels. To achieve this mission, Tesla has expanded its business model beyond just electric vehicles.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd2f20272c396be53e0a85a163aafaa0/noop.jpg?input=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0196%2F5170%2Ffiles%2FTesla-solar-powewall_grande.jpg%3F8194540023797445646"></article>]]></description>
-            <link>https://evannex.com/blogs/news/tesla-vs-fossil-fuels-an-electric-showdown</link>
-            <guid isPermaLink="false">7fdfc3c8-e76a-4f6f-b38a-d570758281e7</guid>
-            <pubDate>Tue, 09 Aug 2016 14:33:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
