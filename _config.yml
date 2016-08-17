@@ -18,5 +18,9 @@ author:
   email: geekandi@geeks.org
   url: 'https://www.geekandi.com/'
 name: Geek and I
+navigation:
+  - name: About
+    url: 'https://www.geekandi.com/about/'
+    type: external
 title: feed; an embellishment
 description: Everything you never wanted to read about
