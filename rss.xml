@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 00:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 15:28:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You can watch free episodes of Amazon shows on YouTube and Facebook]]></title>
+            <description><![CDATA[<article><h1>You can watch free episodes of Amazon shows on YouTube and Facebook</h1><p>Amazon is pushing its Original Series shows out to more outlets, this time for free. The company announced it will upload full pilot episodes of ten original shows on social media sites including YouTube and Facebook, free for anyone to watch.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/54856c70c37d2ce2cf625d72705a8a08/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2012%2F08%2Famazon_ipad_video_watchlist-640x426.jpg"></article>]]></description>
+            <link>http://arstechnica.com/business/2016/08/you-can-watch-free-episodes-of-amazon-shows-on-youtube-and-facebook/</link>
+            <guid isPermaLink="false">a663a67d-7cb1-4ab5-a910-16c666315e0f</guid>
+            <pubDate>Wed, 17 Aug 2016 15:28:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New movie celebrates the true geniuses behind Apollo: NASA's mathematicians]]></title>
             <description><![CDATA[<article><h1>New movie celebrates the true geniuses behind Apollo: NASA's mathematicians</h1><p>This movie has everything that a nerd could possibly desire: spaceships, astronauts, and a group of brilliant mathematicians who made NASA's Apollo mission possible. Hidden Figures focuses on the achievements of Katherine Johnson (played by Taraji Henson from Person of Interest and Empire), winner of the 2015 National Medal of Freedom.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ec17c3a6093593452841592687e8366/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fthumbnail_24795-640x360.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/science/2016/08/spacex-has-shipped-its-mars-engine-to-texas-for-tests/</link>
             <guid isPermaLink="false">7b355c5b-9296-4ee5-94f9-c555ab222713</guid>
             <pubDate>Wed, 10 Aug 2016 03:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samsung Pay hack lets attackers skim cards to make fraudulent payments]]></title>
-            <description><![CDATA[<article><h1>Samsung Pay hack lets attackers skim cards to make fraudulent payments</h1><p>Contactless mobile payments come as standard in Samsung's latest Galaxy smartphones, but a hacker has found a way to intercept their signals. In a presentation given at Defcon, Salvador Mendoza outlined a number of attacks targeting Samsung Pay, with the smartphone maker responding that it knew about this flaw, but that such attacks are "extremely difficult" to pull off.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5450000fb69b2f99448896e3f00ad525/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2FaMDKEXY0xAwaRyQjoeW9gmXhbc0%3D%2F0x209%3A2039x1356%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50327517%2Fbuttons1_2040.0.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/8/9/12410716/samsung-mobile-pay-token-hack-defcon</link>
-            <guid isPermaLink="false">5120d5d5-0d76-4697-89d5-2d909f0f546a</guid>
-            <pubDate>Tue, 09 Aug 2016 17:29:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
