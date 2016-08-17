@@ -4,8 +4,22 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 15:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 15:42:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Intel's new Joule system can help gadgets see and understand the world]]></title>
+            <description><![CDATA[<article><h1>Intel's new Joule system can help gadgets see and understand the world</h1><p>Intel today introduced a new chip module it calls Joule, a tiny board for developers designed to bring powerful computer vision technology to cheap and easy-to-make prototypes. Joule is essentially a tiny and powerful computer with all its standard up-to-date parts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dc0bff7c8ec02cc086f7794ca0d08701/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2FEcv58EkbWcE9zVSOUybC09073zA%3D%2F0x209%3A2039x1356%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50411905%2Fverge-2016-08-16_13-06-24.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/16/12505278/intel-joule-computer-vision-ar-vr-drones-idf-2016</link>
+            <guid isPermaLink="false">c8cf7b60-9b10-4593-bf9e-2d013ee589a0</guid>
+            <pubDate>Wed, 17 Aug 2016 15:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snowden speculates leak of NSA spying tools is tied to Russian DNC hack]]></title>
+            <description><![CDATA[<article><h1>Snowden speculates leak of NSA spying tools is tied to Russian DNC hack</h1><p>Two former employees of the National Security Agency-including exiled whistleblower Edward Snowden-are speculating that Monday's leak of what are now confirmed to be advanced hacking tools belonging to the US government is connected to the separate high-profile hacks and subsequent leaks of two Democratic groups.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7b1db30286346a35f439dca9c1a9e20/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2015%2F05%2Fsnowdenpic-640x419.jpg"></article>]]></description>
+            <link>http://arstechnica.com/tech-policy/2016/08/snowden-speculates-leak-of-nsa-spying-tools-is-tied-to-russian-dnc-hack/</link>
+            <guid isPermaLink="false">7802fbbc-a4c2-4f77-91e1-339d66e06d62</guid>
+            <pubDate>Wed, 17 Aug 2016 15:42:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why does the Star Trek franchise keep returning to its origins?]]></title>
             <description><![CDATA[<article><h1>Why does the Star Trek franchise keep returning to its origins?</h1><p>The latest news about CBS' new Star Trek series Discovery says the show will be set ten years before the events of the original Star Trek adventures with Captain Kirk and the Enterprise. Like the JJ Abrams movie trilogy and the most recent Trek series Enterprise, Discovery will be a return to the origins of the franchise.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/31a9215d3fd479ed3deb4aeb776e87fe/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fstar-trek-discovery-1-640x424.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://arstechnica.com/business/2016/08/can-42-us-a-free-coding-school-run-by-a-french-billionaire-actually-work/</link>
             <guid isPermaLink="false">ee2e4e47-98c0-407f-ba7a-cacbb18c9026</guid>
             <pubDate>Sun, 14 Aug 2016 21:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Orbital angular momentum states may vastly increase fiber's bandwidth]]></title>
-            <description><![CDATA[<article><h1>Orbital angular momentum states may vastly increase fiber's bandwidth</h1><p>We live and die by data these days. Data rates and latencies are everything, with data centers and chips designed to maximize communication speeds. The hero in the world of data is the optical fiber. Thanks to light's very high base frequency, it is possible to modulate it very quickly without using a huge amount of bandwidth.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1428a53e1b297d2ae7ff30bfc74df8f6/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2FARC-16211-1-Optical-Fiber-for-Solar-Cells1-640x484.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/08/orbital-angular-momentum-states-may-vastly-increase-fibers-bandwidth/</link>
-            <guid isPermaLink="false">ab1135ef-4a01-4de5-adbb-03324899a8e1</guid>
-            <pubDate>Sun, 14 Aug 2016 21:40:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Linux bug leaves USA Today, other top sites vulnerable to serious hijacking attacks]]></title>
-            <description><![CDATA[<article><h1>Linux bug leaves USA Today, other top sites vulnerable to serious hijacking attacks</h1><p>Computer scientists have discovered a serious Internet vulnerability that allows attackers to terminate connections between virtually any two parties and, if the connections aren't encrypted, inject malicious code or content into the parties' communications. The vulnerability resides in the design and implementation of RFC 5961, a relatively new Internet standard that's intended to prevent certain classes of hacking attacks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a4d4464b9dedd5c2371ecab1e56ec614/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Foff-path-attack-640x369.jpg"></article>]]></description>
-            <link>http://arstechnica.com/security/2016/08/linux-bug-leaves-usa-today-other-top-sites-vulnerable-to-serious-hijacking-attacks/</link>
-            <guid isPermaLink="false">0aa0fbbf-4b75-4027-81be-a4d46c134976</guid>
-            <pubDate>Wed, 10 Aug 2016 18:45:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
