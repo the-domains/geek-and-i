@@ -22,5 +22,8 @@ navigation:
   - name: About
     url: 'https://www.geekandi.com/about/'
     type: external
+  - name: Blog
+    url: 'https://www.geekandi.com/'
+    type: external
 title: feed; an embellishment
 description: Everything you never wanted to read about
