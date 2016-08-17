@@ -4,8 +4,15 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 15:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 15:36:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why does the Star Trek franchise keep returning to its origins?]]></title>
+            <description><![CDATA[<article><h1>Why does the Star Trek franchise keep returning to its origins?</h1><p>The latest news about CBS' new Star Trek series Discovery says the show will be set ten years before the events of the original Star Trek adventures with Captain Kirk and the Enterprise. Like the JJ Abrams movie trilogy and the most recent Trek series Enterprise, Discovery will be a return to the origins of the franchise.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/31a9215d3fd479ed3deb4aeb776e87fe/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fstar-trek-discovery-1-640x424.jpg"></article>]]></description>
+            <link>http://arstechnica.com/staff/2016/08/why-does-the-star-trek-franchise-keep-returning-to-its-origins/</link>
+            <guid isPermaLink="false">fce44881-fae3-488a-aaa0-c951b94c2917</guid>
+            <pubDate>Wed, 17 Aug 2016 15:36:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[You can watch free episodes of Amazon shows on YouTube and Facebook]]></title>
             <description><![CDATA[<article><h1>You can watch free episodes of Amazon shows on YouTube and Facebook</h1><p>Amazon is pushing its Original Series shows out to more outlets, this time for free. The company announced it will upload full pilot episodes of ten original shows on social media sites including YouTube and Facebook, free for anyone to watch.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/54856c70c37d2ce2cf625d72705a8a08/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2012%2F08%2Famazon_ipad_video_watchlist-640x426.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/security/2016/08/linux-bug-leaves-usa-today-other-top-sites-vulnerable-to-serious-hijacking-attacks/</link>
             <guid isPermaLink="false">0aa0fbbf-4b75-4027-81be-a4d46c134976</guid>
             <pubDate>Wed, 10 Aug 2016 18:45:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX has shipped its Mars engine to Texas for tests]]></title>
-            <description><![CDATA[<article><h1>SpaceX has shipped its Mars engine to Texas for tests</h1><p>SpaceX appears to have taken a significant step forward with the development of a key component of its Mars mission architecture. According to multiple reports, during the Small Satellite Conference Tuesday in Logan, Utah, SpaceX president Gwynne Shotwell said the company has shipped a Raptor engine to its test site in MacGregor, Texas.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ef58ccdedc6262b912b6b74a6d79abf/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2F10842548203_93f75a9043_k-640x426.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/08/spacex-has-shipped-its-mars-engine-to-texas-for-tests/</link>
-            <guid isPermaLink="false">7b355c5b-9296-4ee5-94f9-c555ab222713</guid>
-            <pubDate>Wed, 10 Aug 2016 03:23:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
