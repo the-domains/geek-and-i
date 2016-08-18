@@ -4,8 +4,22 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 15:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 01:05:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Shadow Brokers hack is starting to look like Russia vs. NSA]]></title>
+            <description><![CDATA[<article><h1>The Shadow Brokers hack is starting to look like Russia vs. NSA</h1><p>On Saturday, someone started leaking the NSA's secrets. A pop-up Twitter account called "theshadowbrokers" posted a link to a pastebin, which in turn led to more than 300 MB of exploits and scripts. According to the Shadow Brokers, the data came from the Equation Group, an advanced malware threat long linked to the NSA.</p><img src="https://cdn3.vox-cdn.com/thumbor/YCx4L9mdsnALSUCVkfnRRj0sApQ=/0x51:856x533/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/50424055/nsa.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/17/12519804/shadow-brokers-russia-nsa-hack-equation-group</link>
+            <guid isPermaLink="false">9c64f036-5b4a-41ea-be39-0906640af8c5</guid>
+            <pubDate>Thu, 18 Aug 2016 01:04:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intel's new Joule system can help gadgets see and understand the world]]></title>
+            <description><![CDATA[<article><h1>Intel's new Joule system can help gadgets see and understand the world</h1><p>Intel today introduced a new chip module it calls Joule, a tiny board for developers designed to bring powerful computer vision technology to cheap and easy-to-make prototypes. Joule is essentially a tiny and powerful computer with all its standard up-to-date parts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dc0bff7c8ec02cc086f7794ca0d08701/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2FEcv58EkbWcE9zVSOUybC09073zA%3D%2F0x209%3A2039x1356%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50411905%2Fverge-2016-08-16_13-06-24.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/16/12505278/intel-joule-computer-vision-ar-vr-drones-idf-2016</link>
+            <guid isPermaLink="false">c8cf7b60-9b10-4593-bf9e-2d013ee589a0</guid>
+            <pubDate>Wed, 17 Aug 2016 15:42:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Snowden speculates leak of NSA spying tools is tied to Russian DNC hack]]></title>
             <description><![CDATA[<article><h1>Snowden speculates leak of NSA spying tools is tied to Russian DNC hack</h1><p>Two former employees of the National Security Agency-including exiled whistleblower Edward Snowden-are speculating that Monday's leak of what are now confirmed to be advanced hacking tools belonging to the US government is connected to the separate high-profile hacks and subsequent leaks of two Democratic groups.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7b1db30286346a35f439dca9c1a9e20/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2015%2F05%2Fsnowdenpic-640x419.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://om.co/2016/08/11/should-apple-buy-netflix/</link>
             <guid isPermaLink="false">f65f8cd0-ce83-415b-908f-879a476e744e</guid>
             <pubDate>Sun, 14 Aug 2016 21:46:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can 42 US, a free coding school run by a French billionaire, actually work?]]></title>
-            <description><![CDATA[<article><h1>Can 42 US, a free coding school run by a French billionaire, actually work?</h1><p>FREMONT, Calif.-As you read these words, hundreds of students are hunched over iMacs in a massive computer lab. Most of them have little, if any, programming experience, and they haven't paid a cent to get here. And yet, here they sit, just 7.6 miles directly across the Dumbarton Bridge from Facebook headquarters in Menlo Park, dreaming of joining Silicon Valley's legions of programmers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/23b799903913bc5197bc3c95b7218b85/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2FIMG_6321-640x427.jpg"></article>]]></description>
-            <link>http://arstechnica.com/business/2016/08/can-42-us-a-free-coding-school-run-by-a-french-billionaire-actually-work/</link>
-            <guid isPermaLink="false">ee2e4e47-98c0-407f-ba7a-cacbb18c9026</guid>
-            <pubDate>Sun, 14 Aug 2016 21:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Orbital angular momentum states may vastly increase fiber's bandwidth]]></title>
-            <description><![CDATA[<article><h1>Orbital angular momentum states may vastly increase fiber's bandwidth</h1><p>We live and die by data these days. Data rates and latencies are everything, with data centers and chips designed to maximize communication speeds. The hero in the world of data is the optical fiber. Thanks to light's very high base frequency, it is possible to modulate it very quickly without using a huge amount of bandwidth.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1428a53e1b297d2ae7ff30bfc74df8f6/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2FARC-16211-1-Optical-Fiber-for-Solar-Cells1-640x484.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/08/orbital-angular-momentum-states-may-vastly-increase-fibers-bandwidth/</link>
-            <guid isPermaLink="false">ab1135ef-4a01-4de5-adbb-03324899a8e1</guid>
-            <pubDate>Sun, 14 Aug 2016 21:40:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
