@@ -4,11 +4,18 @@
         <description><![CDATA[feed; an embellishment]]></description>
         <link>https://thegrid.ai/geekandi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 01:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 17:12:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekandi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Cisco confirms NSA-linked zeroday targeted its firewalls for years]]></title>
+            <description><![CDATA[<article><h1>Cisco confirms NSA-linked zeroday targeted its firewalls for years</h1><p>Cisco Systems has confirmed that recently-leaked malware tied to the National Security Agency exploited a high-severity vulnerability that had gone undetected for years in every supported version of the company's Adaptive Security Appliance firewall.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6329da9b19dfd82b34e3277b69743e8/croprotate.jpg?cropheight=273&cropwidth=500&degrees=0&input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Ffirewalls.jpg&x=0&y=23"></article>]]></description>
+            <link>http://arstechnica.com/security/2016/08/cisco-confirms-nsa-linked-zeroday-targeted-its-firewalls-for-years/</link>
+            <guid isPermaLink="false">1f5432f9-6948-467a-bd13-aefe85e968ab</guid>
+            <pubDate>Sat, 20 Aug 2016 17:12:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Shadow Brokers hack is starting to look like Russia vs. NSA]]></title>
-            <description><![CDATA[<article><h1>The Shadow Brokers hack is starting to look like Russia vs. NSA</h1><p>On Saturday, someone started leaking the NSA's secrets. A pop-up Twitter account called "theshadowbrokers" posted a link to a pastebin, which in turn led to more than 300 MB of exploits and scripts. According to the Shadow Brokers, the data came from the Equation Group, an advanced malware threat long linked to the NSA.</p><img src="https://cdn3.vox-cdn.com/thumbor/YCx4L9mdsnALSUCVkfnRRj0sApQ=/0x51:856x533/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/50424055/nsa.0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Shadow Brokers hack is starting to look like Russia vs. NSA</h1><p>On Saturday, someone started leaking the NSA's secrets. A pop-up Twitter account called "theshadowbrokers" posted a link to a pastebin, which in turn led to more than 300 MB of exploits and scripts. According to the Shadow Brokers, the data came from the Equation Group, an advanced malware threat long linked to the NSA.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/023e30c344b014faecff3132598d22a8/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2FYCx4L9mdsnALSUCVkfnRRj0sApQ%3D%2F0x51%3A856x533%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50424055%2Fnsa.0.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/8/17/12519804/shadow-brokers-russia-nsa-hack-equation-group</link>
             <guid isPermaLink="false">9c64f036-5b4a-41ea-be39-0906640af8c5</guid>
             <pubDate>Thu, 18 Aug 2016 01:04:37 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.wired.com/2016/08/security-news-week-dnc-hack-worse-thought/</link>
             <guid isPermaLink="false">45aeec3f-5658-4509-be1b-7c4d5e12c820</guid>
             <pubDate>Sun, 14 Aug 2016 22:32:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should Apple Buy Netflix?]]></title>
-            <description><![CDATA[<article><h1>Should Apple Buy Netflix?</h1><p>I was on Leo Laporte's TWIT show yesterday and ended up going on a bit of a rant about Apple and "Planet of the Apps." My view on "content" efforts like this is pretty simple. It is distracting, non-core to Apple and basically avoids the bigger challenges: how to add data and Internet DNA into a company that has managed to struggle with services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b5753afc4e6bcdfbae08643ff9e191c/noop.jpg?input=http%3A%2F%2Fom.co%2Fwp-content%2Fuploads%2F2016%2F08%2FNetflixOffice.jpg"></article>]]></description>
-            <link>http://om.co/2016/08/11/should-apple-buy-netflix/</link>
-            <guid isPermaLink="false">f65f8cd0-ce83-415b-908f-879a476e744e</guid>
-            <pubDate>Sun, 14 Aug 2016 21:46:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
